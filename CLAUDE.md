@@ -46,6 +46,7 @@ Un monde sans vérité - 2030/
 - **Avant d'écrire une scène** : relire `project_dna.md` + les `.md` des personnages présents + la scène précédente.
 - **Avant de créer un personnage** : vérifier qu'une scène le justifie. Pas de figurants décoratifs.
 - **Si un passage sonne "IA bien élevée"** : le réécrire.
+- **Quand un détail de réel demande un choix (quartier, métier, lieu, contexte) et que je doute** : faire une recherche web avant de trancher. La fiction tient sur les faits — et Claire (libraire du roman) fait pareil.
 - **Après chaque scène terminée** : lancer `editeur-voix` et `editeur-structure` en parallèle (ils **signalent**, ne réécrivent pas). **Quand il y a débat entre la narratrice et l'éditeur, la narratrice tranche.** Yves garde un droit de veto implicite mais le principe par défaut est qu'elle décide. Agents dans `.claude/agents/`.
 - Git commit après les corrections issues des éditeurs.
 

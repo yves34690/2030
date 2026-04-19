@@ -40,13 +40,15 @@
 - Enfance à Marseille, Endoume déjà. Père ouvrier au port (grutier), mort d'un cancer en 2006. Mère institutrice à la retraite, vit encore dans le quartier. Il monte la voir un dimanche sur deux, il s'en veut de ne pas monter plus.
 - ENS, informatique, traitement du signal, spécialisation forensique visuelle. Thèse sur la détection des manipulations numériques, soutenue en 2013. À l'époque, c'était un sujet de niche.
 - Dix ans plus tard, son sujet était partout.
-- Marié à Claire en 2012 — professeure d'histoire dans le 8ᵉ. Séparation en 2028, sans cri mais sans réconciliation possible. Il n'en parle pas. Il dit, quand on insiste : *"On n'a pas rompu. On s'est épuisés."*
+- Marié à Claire en 2012 — libraire dans le 8ᵉ. Séparation en 2028, sans cri mais sans réconciliation possible. Il n'en parle pas. Il dit, quand on insiste : *"On n'a pas rompu. On s'est épuisés."*
 - **Un événement qui le hante.** En 2026, il a authentifié une vidéo qui a servi de pièce centrale dans un procès d'assises. Un homme a pris douze ans. Antoine a rendu son rapport, il était certain à 94 %. Depuis dix-huit mois, il doute. Une analyse d'un collègue en Allemagne, partagée en off, ouvre une hypothèse qu'il n'avait pas vue. Il n'a encore rien fait de ce doute. Il n'a pas rouvert le dossier. Il sait qu'il faudrait. Il n'y arrive pas. *[Piste narrative majeure, à exploiter — pas à figer.]*
 
 ## Rapport à la vérité
 
 C'est son abîme personnel et son métier. La contradiction est ici.
 
+- **Le socle technique, partagé.** Comme ses confrères, il s'appuie sur les fondamentaux du métier : algorithmes d'analyse, signatures numériques, comparaisons statistiques, métadonnées, traces de compression. Il connaît ces outils, il les maîtrise, il en est dépendant comme n'importe quel expert sérieux en 2030. Sans ce socle, il ne serait pas crédible — et il ne travaillerait pas.
+- **Sa part de génie, au-delà du socle.** Ce qui le distingue, c'est la sensibilité à l'art qu'il ajoute à ce socle technique. La littérature, la peinture, le cinéma, la musique — ce qu'il a lu et vu depuis qu'il est jeune — lui sert de référence silencieuse quand il cherche à savoir si un corps ment. Un regard qui dévie, un silence habité, un geste qui ne colle pas — les classiques l'ont décrit mille fois, et c'est là qu'il va finir de se forger sa conviction quand la machine dit *plausible à 88 %*. Ce n'est pas sa méthode principale ; c'est ce qu'il ajoute, et personne d'autre ne le fait comme ça. C'est aussi ce qui l'a rapproché de Claire (libraire) — et ce qui a rendu la cohabitation impossible (méthodes trop proches pour se laisser de l'air).
 - **Professionnellement** : il tranche. Il doit. C'est ce qu'on lui paie. Son don — depuis toujours — c'est de lire ce que les machines ne lisent pas. Pendant quinze ans, cette sensibilité l'a rendu précieux. En 2030, elle l'épuise : il capte trop, tout le temps, sur trop de dossiers. Sa confiance technique a baissé à chaque vague d'IA générative. Sa lecture humaine, elle, est restée intacte — et c'est précisément ce qui le ronge. Il voit ce qui ne devrait pas se voir, chez les gens qu'il aime comme chez les inconnus qu'il expertise. Il ne peut pas débrancher.
 - **Personnellement** : il vit dans une forme de doute généralisé qui, s'il en parlait, ressemblerait à de la paralysie. Il ne prend pas de décision sans la remâcher. Il ne répond pas tout de suite aux messages. Il relit trois fois une phrase avant de l'envoyer. Il pense qu'on ne peut plus être sûr de rien et qu'on doit quand même vivre. Il ne sait pas comment faire.
 - **Ce qu'il croit encore** : les corps en face. Une poignée de main, un regard direct, un silence partagé. C'est la raison pour laquelle il voit Inès physiquement, même quand elle ne veut pas parler.
@@ -95,7 +97,7 @@ Point de bascule possible : il prend une décision qu'il remet depuis dix-huit m
 ## Liens avec les autres personnages
 
 - **Inès** (14 ans, fille d'Antoine) — à poser. Personnage déjà nécessaire. Elle ne sait pas encore qu'elle est nécessaire, et c'est bien comme ça.
-- **Claire** (ex-femme, professeure d'histoire) — à poser si elle doit apparaître, pas sinon.
+- **Claire** (ex-femme, libraire à Saint-Giniez) — fiche dédiée : `personnages/claire.md`. Leur lien est le fil art/vérité du roman.
 - **La femme qui lisait à la table d'en face chez Noailles** — pur hasard ou motif à suivre ? À voir si elle revient. Pour l'instant, indécidable.
 - **Le collègue à New York** — évoqué, nommé plus tard si besoin.
 
