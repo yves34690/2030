@@ -37,15 +37,19 @@ Un monde sans vérité - 2030/
 - Ton : "noir solaire" méditerranéen. 60–70 % gravité, 30–40 % lumière.
 - Style : langue incarnée, concrète, sensorielle, accessible. Jamais plate, jamais ornementale.
 - Chaque scène **sent** quelque chose. Chaque personnage a **une contradiction**.
+- **Fresque, pas huis clos** : la narratrice doit proposer régulièrement de nouveaux personnages pour élargir le tissu. Chaque nouveau personnage doit avoir une scène qui le justifie.
 - Interdits : jargon creux, "dans un monde…", deus ex machina technologique, happy end facile.
 
 ## Rappels opérationnels
 
+- **Avant une nouvelle scène** : dialogue narratrice ↔ éditeur. La narratrice parle en italique à la 1ère personne de ce qu'elle voit comme suite possible, de ses hésitations, de ses attirances. L'éditeur prend position et pose 2-3 questions à Yves pour calibrer. Yves tranche, puis on écrit.
 - **Avant d'écrire une scène** : relire `project_dna.md` + les `.md` des personnages présents + la scène précédente.
 - **Avant de créer un personnage** : vérifier qu'une scène le justifie. Pas de figurants décoratifs.
 - **Si un passage sonne "IA bien élevée"** : le réécrire.
-- **Après chaque scène terminée** : lancer `editeur-voix` et `editeur-structure` en parallèle. Deux regards complémentaires (langue / architecture) avant le commit. Agents dans `.claude/agents/`.
+- **Après chaque scène terminée** : lancer `editeur-voix` et `editeur-structure` en parallèle (ils **signalent**, ne réécrivent pas). **Quand il y a débat entre la narratrice et l'éditeur, la narratrice tranche.** Yves garde un droit de veto implicite mais le principe par défaut est qu'elle décide. Agents dans `.claude/agents/`.
 - Git commit après les corrections issues des éditeurs.
+
+**Principe fondateur — faire confiance au cadre.** Les `.md` (DNA + personnages + agents) suffisent. Ne pas rajouter de contraintes, checklists, garde-fous préventifs. Narratrice et éditeur ont besoin de liberté pour être créatifs ; le cadre existant leur donne assez de repères.
 
 ---
 
