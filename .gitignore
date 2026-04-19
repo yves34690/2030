@@ -1,0 +1,24 @@
+# Fichiers système
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Fichiers temporaires Office
+~$*.*
+*.tmp
+*.bak
+
+# Exports compilés (régénérables)
+export/*.pdf
+export/*.epub
+export/*.docx
+
+# IDE
+.vscode/
+.idea/
+
+# Claude Code — permissions locales
+.claude/settings.local.json
+
+# Documents préparatoires privés (dumps ChatGPT/Gemini, goûts littéraires, historiques)
+Documentation/
