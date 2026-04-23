@@ -39,6 +39,7 @@
 
 - Enfance à Marseille, Endoume déjà. Père ouvrier au port (grutier), mort d'un cancer en 2006. Mère institutrice à la retraite, vit encore dans le quartier. Il monte la voir un dimanche sur deux, il s'en veut de ne pas monter plus.
 - ENS, informatique, traitement du signal, spécialisation forensique visuelle. Thèse sur la détection des manipulations numériques, soutenue en 2013. À l'époque, c'était un sujet de niche.
+- **Automne 2010 — semestre à Columbia** pendant la thèse. Il y rencontre **Daniel Ng** (voir `personnages/daniel.md`), Américain bavard qui deviendra son ami le plus tenace. Quinze ans d'amitié qui tiennent par mail, par SMS, par quelques voyages. C'est Daniel qui lui présentera sa femme Nora Park en 2021.
 - Dix ans plus tard, son sujet était partout.
 - Marié à Claire en 2012 — libraire dans le 8ᵉ. Séparation en 2028, sans cri mais sans réconciliation possible. Il n'en parle pas. Il dit, quand on insiste : *"On n'a pas rompu. On s'est épuisés."*
 - **Un événement qui le hante.** En 2026, il a authentifié une vidéo qui a servi de pièce centrale dans un procès d'assises. Un homme a pris douze ans. Antoine a rendu son rapport, il était certain à 94 %. Depuis dix-huit mois, il doute. Une analyse d'un collègue en Allemagne, partagée en off, ouvre une hypothèse qu'il n'avait pas vue. Il n'a encore rien fait de ce doute. Il n'a pas rouvert le dossier. Il sait qu'il faudrait. Il n'y arrive pas. *[Piste narrative majeure, à exploiter — pas à figer.]*
@@ -106,8 +107,9 @@ Point de bascule possible : il prend une décision qu'il remet depuis dix-huit m
 
 - **Inès** (14 ans, fille d'Antoine) — à poser. Personnage déjà nécessaire. Elle ne sait pas encore qu'elle est nécessaire, et c'est bien comme ça.
 - **Claire** (ex-femme, libraire à Saint-Giniez) — fiche dédiée : `personnages/claire.md`. Leur lien est le fil art/vérité du roman.
+- **Daniel Ng** (ami de Columbia depuis 2011) — fiche dédiée : `personnages/daniel.md`. Journaliste d'investigation senior devenu président d'Aletheia Ventures. Marié à Nora. Ami le plus tenace d'Antoine, hors cadre marseillais. C'est via lui qu'Antoine a rencontré Nora en 2021. **Vecteur de doute narratif du second mouvement** — à lire pour comprendre la charge ambiguë qu'il porte dans l'enquête.
+- **Nora Park** (collègue et amie, femme de Daniel) — fiche dédiée : `personnages/nora.md`.
 - **La femme qui lisait à la table d'en face chez Noailles** — pur hasard ou motif à suivre ? À voir si elle revient. Pour l'instant, indécidable.
-- **Le collègue à New York** — évoqué, nommé plus tard si besoin.
 
 ## Ce que la narratrice sait / ne sait pas sur Antoine
 

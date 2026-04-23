@@ -13,7 +13,7 @@
 - **Métier :** experte en authentification visuelle, orientée technique. Chercheuse associée au MIT Media Lab (thèse soutenue en 2019, *Temporal Signatures in Deepfake Generation*), partenaire d'un cabinet forensique à Brooklyn (Lux Veritas — nom prétentieux, elle ne l'a pas choisi). Elle audite, elle expertise, elle publie. Elle dirige une équipe de cinq personnes, trois ingénieures et deux stagiaires.
 - **Spécialité :** elle voit les motifs. Les récurrences à travers des corpus de milliers de vidéos, les tics invisibles d'un modèle génératif, les signatures qu'un humain ne remarquerait pas. Elle lit les machines comme Antoine lit les humains. Ce sont leurs dons croisés qui en font des alliés précieux.
 - **Vit à Brooklyn Heights.** Une brownstone du côté de Columbia Street — vue sur le pont de Brooklyn et un coin de Lower Manhattan depuis le salon. Elle l'a achetée en 2022 avec Daniel, à bout de bras, en contractant un prêt qui les tient encore.
-- **Situation familiale :** mariée à Daniel Ng (architecte, sino-américain, né à San Francisco). Deux enfants — Eli (10 ans) et Juno (7 ans). Vie pleine, parfois saturée.
+- **Situation familiale :** mariée à Daniel Ng (sino-américain né à San Francisco, journaliste d'investigation devenu président d'Aletheia Ventures — fonds d'investissement AI governance, Flatiron Manhattan ; voir `personnages/daniel.md`). Deux enfants — Eli (10 ans) et Juno (7 ans). Vie pleine, parfois saturée.
 
 ## Corps
 
@@ -66,7 +66,7 @@ Elle est d'ici. Fille d'immigrés, née à Flushing, éduquée entre le Queens e
 
 ## Lien avec Antoine
 
-- **Rencontre** : colloque à l'EPFL (Lausanne), avril 2024. Ils se sont retrouvés à la même table lors d'un dîner officiel. Elle parlait français avec lui, il parlait anglais avec elle, ça faisait rire les voisins.
+- **Rencontre** : via Daniel, en 2021. Antoine est l'ami de longue date de Daniel (semestre Columbia 2010-2011, quinze ans d'amitié tenue). Lors d'un séjour d'Antoine à New York en octobre 2021 — un colloque à NYU où il intervient comme expert —, Daniel insiste pour qu'il dîne à Brooklyn Heights. Nora est là. Ils parlent deepfakes au dessert pendant que Daniel débarrasse, et c'est Nora qui arrête Antoine en lui disant *« on en parle demain, pas ce soir »*. Collaboration professionnelle entre eux qui se construit ensuite à distance — échanges mails, papiers co-signés à partir de 2024.
 - **Collaboration** : papier co-signé en 2026 dans *Journal of Digital Forensics*, sur les signatures temporelles des vidéos générées. Deux autres papiers depuis, trois échanges par semaine en moyenne.
 - **Ce qu'ils partagent** : l'éthique du métier (ils savent qu'un rapport peut faire condamner ou acquitter un homme), une forme de pudeur sur les sujets qui touchent, un respect du temps de l'autre.
 - **Ce qu'ils ne partagent pas** : le rythme (elle tranche, il rumine), l'entourage (elle est en couple et mère, il est solitaire), la ville, la langue quotidienne.
@@ -83,7 +83,7 @@ Point de bascule possible : un moment où elle doit choisir entre sa prudence pr
 
 ## Liens avec les autres personnages
 
-- **Daniel** (mari) — à poser si nécessaire. Présence stable, peu romanesque, indispensable. Il pourrait ne jamais apparaître en scène, ou une fois, ou plus — à voir.
+- **Daniel Ng** (mari) — cf. `personnages/daniel.md`. Ami de longue date d'Antoine (Columbia 2011). Double casquette journaliste/investisseur. **Personnage majeur du second mouvement** — vecteur de doute narratif, pistes 1 et 2.
 - **Eli et Juno** (enfants, 10 et 7 ans) — à poser s'ils servent. Probablement oui, à petites doses, pour ancrer Nora dans un quotidien qu'Antoine n'a pas.
 - **Ses parents à Flushing** — à poser plus tard si besoin.
 - **Son équipe de Lux Veritas** — peu probable qu'elle apparaisse sauf une ou deux fois.

@@ -98,6 +98,36 @@ Chaque piste doit **vivre jusqu'au dernier tiers du roman.** Le lecteur doit pou
 
 ---
 
+## 2bis. Daniel Ng — le vecteur de doute narratif
+
+**Daniel Ng** — ami d'Antoine depuis Columbia 2011, mari de Nora, journaliste d'investigation senior et président du fonds **Aletheia Ventures** — est le **vecteur principal du doute narratif** entre la fin de l'acte 1 et la fin du roman. Il alimente les pistes 1 (État) et 2 (crime organisé) sans être lui-même coupable du meurtre. Voir fiche dédiée : `personnages/daniel.md`.
+
+### Pourquoi il trouble le lecteur
+
+- **Il a théorisé le modèle qui a tué Esther.** Son article *The Philosopher in the Machine* (*The New Yorker*, janvier 2022) a inspiré Julien Roque à créer un Comité de la Charte chez Noésis et à recruter Azoulay en décembre 2024. Daniel n'a pas idée de cette conséquence — il l'apprendra dans l'acte 3 par Antoine.
+- **Il a un conflit d'intérêts direct.** Aletheia Ventures est LP du fonds européen **Pléiades Capital** (Luxembourg), actionnaire de Noésis à 4 %. Daniel le sait depuis le début. Il ne l'a jamais dit à Antoine. Révélation fin acte 2 — scène de friction dure entre les deux amis.
+- **Il a manqué l'appel d'Esther.** Dimanche 25 avril 2027, 10h14 heure de New York. Numéro marseillais. Il était au Prospect Park avec les enfants, il ne répond pas aux inconnus le week-end. Le numéro ne laisse pas de message. Deux semaines plus tard, en triant ses appels manqués, il découvre que c'était Esther Azoulay. Il ne rappelle pas. Elle meurt en juin. **Il n'en a jamais parlé à personne.** Révélation dans l'acte 3.
+- **Ses réseaux qui « tombent bien ».** À chaque blocage institutionnel dans l'enquête, il a un contact : un ex-général à Washington (via Lambert, son associé), un partenaire de Sequoia (via Morris), une journaliste française au *Monde*. C'est pratique. C'est aussi suspect.
+- **Ses silences précis.** Il ne ment jamais activement. Il omet. Il esquive. Ce qu'il ne dit pas finit par se voir — à retardement, souvent trop tard.
+
+### Les deux faux-coupables possibles qui le désignent
+
+1. **Le scénario « État » :** Daniel a des contacts Pentagone et Washington via Lambert. Dans une scène, Antoine soupçonne un instant que Daniel aurait été informé du programme Hermès avant sa mort et aurait pu alerter Esther. Cette lecture s'effondre — Daniel ne savait pas — mais elle plante le doute.
+2. **Le scénario « crime organisé » :** Aletheia a décliné en 2026 une prise de participation par un véhicule luxembourgeois au profil opaque. Ce véhicule est le même qui tentera de racheter Noésis en 2027. Daniel connaît certains de ses bailleurs. Antoine s'interroge : si Daniel avait refusé, n'était-ce pas parce qu'il savait ce qu'ils préparaient ? Non. Mais le soupçon tient trente pages.
+
+### Le rebondissement de fin
+
+Quand la piste 4 (Léo Rousseau) émerge, le lecteur peut avoir soupçonné Daniel depuis 150 pages. Le soulagement n'est pas total — **Daniel est lavé du meurtre mais pas de sa chaîne causale morale :** sans son article, pas de recrutement ; sans recrutement, pas d'exposition ; sans exposition, pas d'assassinat. Cette culpabilité indirecte est tenue jusqu'à la fin. Le roman ne la referme pas.
+
+### Règles d'écriture pour Daniel
+
+- **Il reste aimable.** Chaleureux, drôle, fidèle. Son ambiguïté est contextuelle, pas personnelle. Le lecteur doute *malgré* lui.
+- **Il n'est pas le bouc émissaire frontal de mi-livre.** Le doute flotte. Il n'est jamais porté à l'accusation directe par Antoine avant le dernier tiers.
+- **Il ne disparaît pas après le dénouement.** Il reste, avec sa culpabilité indirecte, jusqu'à la dernière page. Il est lavé mais pas lavé.
+- **La narratrice le surveille.** Elle le regarde comme elle regarde les personnages ambigus — sans trancher. Dans les dernières pages, elle le voit recevoir un appel qu'il prend à l'écart. Elle ne dit pas de qui c'est. Elle ne clôt pas.
+
+---
+
 ## 3. Le dosage narratif (ordre d'exposition)
 
 > Règle de base : **le lecteur doit croire successivement aux pistes 1, 2, 3, puis revenir à 1 ou 2, avant que la piste 4 émerge lentement dans le dernier tiers.**
