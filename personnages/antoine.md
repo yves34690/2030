@@ -73,6 +73,14 @@ Né ici. Parti étudier, quinze ans à Paris. Revenu en 2012. Il a fait les deux
 - **Ses lieux** : le café chez Noailles (deuxième table à gauche, voir test de voix), un bar à Endoume dont il est le seul à tutoyer le patron, la librairie Pain Salvator rue du Prado où il ne va pas pour acheter.
 - **Ce qu'il fuit** : les événements, les vernissages, les soirées organisées par les cercles expats du 8ᵉ — sphère sociale de Claire. Il n'en veut pas.
 
+## Ce qui le tient
+
+*(Ses points d'ancrage non-techniques. À faire vivre, pas à lister en scène.)*
+
+- **Mistral gagnant** (Renaud, 1985). L'une des chansons qui font partie de son humanité. Il l'écoute en voiture, seul, pas souvent. Chaque fois, quelque chose se rouvre dans la poitrine. Il pense à Inès petite, à son père grutier qui chantait Renaud dans la cuisine le dimanche, au *banc cinq minutes avec toi* qui est une liturgie privée chez lui. Il ne la cite jamais, même à Inès, même à Claire. **Règle d'écriture :** la chanson peut infuser une scène (banc, pigeons qu'on nourrit, brièveté d'un moment volé avec Inès, tendresse d'homme qui ne se dit pas) — jamais être nommée ni citée.
+
+---
+
 ## Le geste du café (rappel test de voix)
 
 Rue Saint-Ferréol, un mardi de juin 2030, vers quatre heures. Un message qu'il lit deux fois et qu'il retourne écran contre la nappe. La mâchoire qui se contracte, une fois. La main qui se referme sur rien pendant sept minutes. Il sort sans toucher au café.
