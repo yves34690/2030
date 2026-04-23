@@ -18,7 +18,7 @@ Je commence comme j'ai appris à commencer. Ce que je sais. Ce que je ne sais pa
 
 **Ce que je sais.**
 
-J'ai repassé la vidéo de l'affaire Brahimi dans FORVEX 2.3. La mise à jour est sortie en février, je l'ai eue en main plus tard, j'ai traîné — tu me connais, je ne repasse pas les dossiers fermés. J'ai traîné jusqu'à mardi dernier. J'ai repassé parce qu'un vieux cas sans lien m'a fait penser à celui-ci. Ce n'est pas une enquête, ce n'est pas une commande. Je te le dis parce que ça compte pour la suite : personne ne m'a demandé de regarder.
+J'ai repassé la vidéo de l'affaire Azoulay dans FORVEX 2.3. La mise à jour est sortie en février, je l'ai eue en main plus tard, j'ai traîné — tu me connais, je ne repasse pas les dossiers fermés. J'ai traîné jusqu'à mardi dernier. J'ai repassé parce qu'un vieux cas sans lien m'a fait penser à celui-ci. Ce n'est pas une enquête, ce n'est pas une commande. Je te le dis parce que ça compte pour la suite : personne ne m'a demandé de regarder.
 
 Les corrections spectrales publiées en octobre sur les composites de diffusion ont élevé de quatre ordres de grandeur la détection d'artefacts de parallaxe micrométrique. Ce qui vivait sous le seuil en 2028 se voit aujourd'hui.
 
@@ -34,9 +34,9 @@ Je ne sais pas si c'est un geste isolé ou un dispositif. Je ne sais pas à qui 
 
 **Ce que je suppose.**
 
-Je suppose que la vidéo est un composite. Le visage de Karim Benali, inséré par diffusion, sur une séquence tournée ailleurs, probablement entre 22 heures et 22h45 le même soir, dans une cage d'escalier ou un hall voisin. Quelqu'un — je ne sais pas qui — avait intérêt à le placer dans le hall de Samira Brahimi à 23h11.
+Je suppose que la vidéo est un composite. Le visage de Karim Benali, inséré par diffusion, sur une séquence tournée ailleurs, probablement entre 22 heures et 22h45 le même soir, dans une cage d'escalier ou un hall voisin. Quelqu'un — je ne sais pas qui — avait intérêt à le placer dans le hall de Esther Azoulay à 23h11.
 
-Je suppose que Karim Benali n'a pas tué Samira Brahimi. Si j'ai raison, il purge depuis trois ans une peine pour un meurtre qu'il n'a pas commis. Je tiens cette phrase en bouche depuis mardi matin. Elle ne se dissout pas.
+Je suppose que Karim Benali n'a pas tué Esther Azoulay. Si j'ai raison, il purge depuis trois ans une peine pour un meurtre qu'il n'a pas commis. Je tiens cette phrase en bouche depuis mardi matin. Elle ne se dissout pas.
 
 **Ce que je te demande.**
 
