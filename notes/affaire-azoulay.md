@@ -128,6 +128,28 @@ Quand la piste 4 (Léo Rousseau) émerge, le lecteur peut avoir soupçonné Dani
 
 ---
 
+## 2ter. La ligne ado — Eli / Inès / Lila (option narrative souterraine)
+
+**Le trio secret.** Eli Ng (16 ans, fils de Daniel et Nora, surdoué informatique, membre du collectif white hat *Lanterna*) connaît Inès Manzoni (14 ans, fille d'Antoine) et Lila Benhadj (14 ans, amie d'Inès, voisine de Farida Benali) depuis le printemps 2029 via un Discord francophone autour de Ted Chiang. Leur amitié se tient désormais sur un canal Matrix chiffré hébergé par Lanterna, sous le nom simple `#ted`. **Aucun adulte ne sait.** Aucune image n'a jamais circulé. Ils parlent, plusieurs soirs par semaine, tard pour Inès (décalage horaire oblige). Ils se lisent des textes. Ils sont amis.
+
+**L'ironie structurelle :** Inès parle depuis un an avec le fils de Nora Park sans savoir qu'il est le fils de la collègue new-yorkaise de son père ; Eli ne le sait pas non plus ; Lila ne sait pas qu'Eli est le fils d'un cadre de l'AI governance qui connaît l'affaire Azoulay de très près.
+
+**Trois niveaux possibles d'utilisation narrative (à choisir, ou à doser) :**
+
+1. **Info montante.** Eli, via son cercle Lanterna, tombe sur un fragment technique (signature, IP, trace de code) lié à l'affaire Azoulay sans qu'il sache que c'en est un. Il en parle à Inès parce qu'il cite son père (Antoine) comme ressource. Inès réalise. Elle parle à Antoine. Les adultes découvrent tard que les ados étaient en avance.
+2. **Lien sentimental.** L'amitié traverse l'affaire et survit à la révélation parentale. Inès grandit par ce trio.
+3. **Miroir thématique.** Le lecteur comprend tard que les ados ont tenu leur zone de confiance (papier, chiffrement, amitié sans image) pendant que les adultes brûlaient dans leurs conflits d'intérêts. Résonance avec le fil conducteur du roman — la connexion humaine comme monnaie du vrai.
+
+**Règle d'écriture pour cette ligne :**
+- Le trio infuse en creux, par allusions, capteurs, métadonnées. **La narratrice ne voit pas le canal `#ted`** (chiffrement de bout en bout). Elle sait qu'il existe, elle le signale une fois.
+- **Pas de scène interne Lanterna.** Pas de cockpit hacker. Le collectif reste mentionné sans être montré.
+- **Pas d'image partagée.** Règle silencieuse du trio. Quand elle sera enfreinte (si elle l'est), ce sera une bascule.
+- Lila est la passerelle initiale (Discord Ted Chiang 2028), Eli est l'axe technique, Inès est l'axe littéraire.
+
+**Choc père-fils à tenir en réserve.** Quand l'affaire remontera en juin 2030 (scène 11 et suivantes), Eli finira par apprendre — par Inès, via Antoine — le conflit d'intérêts Aletheia/Noésis de son père. Il retournera ça contre Daniel à table. Scène possible dans le dernier tiers.
+
+---
+
 ## 3. Le dosage narratif (ordre d'exposition)
 
 > Règle de base : **le lecteur doit croire successivement aux pistes 1, 2, 3, puis revenir à 1 ou 2, avant que la piste 4 émerge lentement dans le dernier tiers.**

@@ -36,6 +36,7 @@
 - **Un second événement, plus ancien :** à neuf ans, elle a surpris Antoine en train de cocher, puis décocher, puis recocher le filtre correctif du cadre numérique qui faisait défiler ses photos. Elle a compris que son père triait — qu'il décidait de la fille qu'il voyait. Elle ne lui a jamais dit qu'elle l'avait vu. Mais depuis, elle regarde les images autrement.
 - **Ce qui fait encore mal :** l'absence du soir. Chez Claire, le soir, il manque quelqu'un. Chez Antoine les week-ends, il manque quelqu'une. Elle ne le formule pas. Elle vit avec.
 - **Ce qu'elle cache :** qu'elle écrit. Un petit carnet bleu qu'elle tient fermé dans un tiroir, cadenas minuscule — acheté en pharmacie comme celui d'Antoine, sans qu'il le sache, sans qu'elle le sache de lui. Le papier comme discipline commune, sans qu'aucun des deux en ait parlé à l'autre.
+- **Ce qu'elle cache aussi :** **le canal `#ted`.** Depuis le printemps 2029, un salon Matrix chiffré hébergé par le collectif *Lanterna*, où elle parle avec **Eli Ng** (seize ans, Brooklyn) et **Lila** plusieurs soirs par semaine, tard. Lila l'y a présentée. Aucun adulte ne sait. Aucune image n'a jamais circulé. Ils se lisent des textes — Ted Chiang, Le Guin, Zadie Smith, Ernaux. C'est la seule exception d'Inès à son hygiène numérique, et c'est précisément parce qu'elle est chiffrée qu'elle l'accepte. Voir `personnages/eli.md`.
 - **Ce qu'elle regrette :** d'avoir ri une fois à une blague que Lila a faite sur sa mère. Ça date d'un an. Elle y pense encore.
 - **Une faille assumée :** elle n'est pas très sociable. *Je connais pas grand monde, je connais bien Lila.* Elle l'assume.
 - **Une faille non assumée :** elle a parfois peur que ses parents ne se comprennent plus jamais. Elle ne formule pas cette peur, elle la repousse. Mais elle l'a.
@@ -75,7 +76,8 @@ Fille d'Antoine et de Claire, deux artisans de l'invérifiable. Elle a grandi au
 - **Antoine (père) :** lien profond, sobre. Elle l'aime d'un amour d'enfance entière qu'elle tient sous silence. Le mercredi et un week-end sur deux, elle redevient sa petite fille en gestes — en mots, elle a grandi.
 - **Claire (mère) :** lien quotidien, sec, tendre. Elles se parlent peu, elles se comprennent vite. Claire est la règle ; Claire est aussi le refuge.
 - **Lila (meilleure amie) :** cf. fiche Lila. Amitié improbable, effective.
-- **Nora (New York) :** Inès ne sait pas qu'elle existe. Ne la connaîtra peut-être jamais, ou tard.
+- **Nora (New York) :** Inès ne sait pas qu'elle existe. Ne la connaîtra peut-être jamais, ou tard. **Ironie à tenir :** Inès connaît le fils de Nora (Eli) depuis un an par `#ted` sans savoir qu'il est le fils d'une collègue de son père. Eli ne sait pas non plus. Le lien se fera tard — et il coûtera.
+- **Eli Ng (16 ans, Brooklyn) :** via `#ted`. Voir fiche dédiée. Amitié à trois avec Lila, tenue à distance, chiffrée. Personne n'a envoyé d'image. Inès écrit mieux qu'elle ne parle là-dedans.
 
 ---
 

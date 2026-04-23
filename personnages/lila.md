@@ -84,6 +84,7 @@
 - **Antoine :** croisé une fois, à la sortie des cours l'année dernière. Un *salut monsieur* sobre. Elle l'a regardé longtemps quand il est reparti ; elle n'a rien dit à Inès. Elle ne se formule pas que, ce jour-là, elle a vu pour la première fois **un père qu'elle aurait voulu avoir**. Elle le sait sans le savoir. Quand elle pense à parler à Antoine, ce savoir-là se met en travers en même temps que ses mauvaises notes.
 - **Farida :** voisine ou presque — bus 21, quartiers qui se recouvrent, un palier que Lila connaît. Farida monte aux Baumettes le dimanche depuis trois ans voir un homme condamné. Lila a croisé ses courses, l'a aidée à porter un jour, lui a appris un truc sur son téléphone un autre. Elle sait des choses. Précision à laisser venir.
 - **Mehdi (petit frère) :** elle s'en occupe comme personne. C'est peut-être là qu'on verra sa tendresse nue.
+- **Eli Ng (16 ans, Brooklyn) :** rencontré fin 2028 sur un Discord francophone autour de Ted Chiang. Copain de messagerie d'abord, ami à distance ensuite. **C'est elle qui a présenté Inès** au printemps 2029. Le trio `#ted` vit sur un canal chiffré du collectif *Lanterna* dont Eli est membre. Personne n'a jamais envoyé d'image de soi. Lila ne sait pas qu'Eli est le fils d'une collègue d'Antoine. Elle le découvrira — ce sera un moment. Voir `personnages/eli.md`.
 
 ---
 

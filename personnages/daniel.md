@@ -16,7 +16,7 @@
   - **Journaliste d'investigation.** Bloomberg 2012-2015, ProPublica 2015-2020, indépendant depuis 2020. Contrats annuels avec *The Atlantic*, *The New Yorker*, *NYT Magazine*. Publie trois-quatre longs papiers par an.
   - **Cofondateur et président d'Aletheia Ventures** (mars 2023). Fonds d'investissement spécialisé **AI governance & ethics**, basé Flatiron Manhattan. ~400 M$ AUM en 2030. Deux associés : Rebecca Morris (ex-Sequoia) et Gen. Robert Lambert (ex-contre-espionnage, retraite anticipée).
 - **Vit à Brooklyn Heights** depuis 2022. Brownstone Columbia Street achetée avec Nora — prêt qui les tient encore.
-- **Situation familiale :** marié à Nora Park depuis 2018. Deux enfants — Eli (10 ans) et Juno (7 ans).
+- **Situation familiale :** marié à Nora Park depuis 2018 (en couple depuis 2013). Deux enfants — **Eli (16 ans, surdoué informatique, voir `personnages/eli.md`)** et Juno (7 ans).
 
 ## Corps
 
@@ -36,7 +36,7 @@
 ## Passé
 
 - **Rencontre avec Antoine. Automne 2010.** Antoine vient de débarquer pour un semestre à Columbia dans le cadre de sa thèse ENS Cachan. Daniel est en dernière année undergrad, vient de commencer le Journalism School en option. Soirée d'accueil des étudiants francophones à la Maison française de Columbia. Ils parlent de Roberto Bolaño jusqu'à deux heures du matin. Pas la rencontre qu'on aurait prédite — un Américain bavard et un Marseillais taiseux. Ils s'écrivent depuis. **Quinze ans d'amitié tenue par mail, par SMS, par quelques voyages, et par une loyauté qu'aucun des deux n'a jamais besoin de formuler.**
-- **Rencontre avec Nora.** 2015, colloque au MIT où elle faisait sa thèse, il couvrait un sujet sur l'analyse forensique des images. Elle l'a impressionné en lui expliquant sa méthode avec une sécheresse qu'il a prise pour de la hauteur — puis pour de la rigueur quand il a compris. Mariage en 2018.
+- **Rencontre avec Nora. 2013.** Colloque à Boston sur l'analyse forensique des images, il couvrait le sujet pour Bloomberg. Nora finissait sa dernière année d'undergrad au MIT et y intervenait comme jeune chercheuse invitée. Elle l'a impressionné en lui expliquant sa méthode avec une sécheresse qu'il a prise pour de la hauteur — puis pour de la rigueur quand il a compris. En couple depuis. Eli naît en août 2014. Mariage 2018 (ils ont longtemps dit qu'ils s'en passeraient, ils ont fini par le faire pour des raisons d'assurance et de passeport d'Eli).
 - **Trois enquêtes majeures :**
   - **Cambridge Analytica, 2017.** Co-signature d'un papier avec Carole Cadwalladr pour *The Observer*. Première reconnaissance internationale. Angle : l'aspect technologique pur (microciblage, modèles prédictifs) que l'angle britannique traitait moins.
   - **Deepfakes politiques des primaires US, 2020.** Dix-huit mois d'enquête. Devient le livre **Seeing Is Not Believing** (Simon & Schuster, 2021). Bestseller NYT pendant quatorze semaines. Traduit en huit langues. *La parution en France a lieu en 2022, édité au Seuil sous le titre* Voir n'est plus croire.
@@ -90,6 +90,7 @@
 ## Liens
 
 - **Antoine Manzoni** — vieil ami. Ils s'écrivent une fois par semaine environ depuis quinze ans. Daniel est l'un des trois humains à qui Antoine a annoncé sa séparation d'avec Claire en 2028. Daniel a pleuré au téléphone, Antoine pas.
+- **Eli** (fils, 16 ans) — tension père-fils en cours. Eli admire *Seeing Is Not Believing* (2021) qu'il a lu à douze ans et méprise Aletheia Ventures depuis qu'il a quatorze. Il critique son père à table. Daniel a cessé de se défendre. **En juin 2030, l'affaire Azoulay va rendre ce silence intenable.** Voir `personnages/eli.md`.
 - **Nora Park** — femme. Il l'a rencontrée en 2015 au MIT (colloque). Mariage 2018. Ils n'ont pas de secret l'un pour l'autre, sauf Esther — qu'il ne lui a jamais dite.
 - **Esther Azoulay** — cf. zone d'ombre. Une main serrée, dix minutes, un appel manqué.
 - **Julien Roque (Noésis)** — se connaissent depuis 2023. Daniel a fait un papier sur Noésis pour *The Atlantic* en 2024 (*The Paris Alignment Bet*). Le conflit d'intérêts est déclaré sur le papier en note de bas de page (trois lignes, que personne n'a lues).
