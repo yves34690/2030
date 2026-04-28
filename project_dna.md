@@ -117,8 +117,16 @@ Différence fondatrice : *voix littéraire* ≠ *rhétorique soignée*. Izzo et 
 - **Les pirouettes finales "tweetables"** ("qui sait, peut-être que ça l'est"). Un humain dans le trouble ne ferme pas ses boucles avec élégance.
 - **Les sentences et manifestes** ("Ma règle, la seule."). Un personnage ne fait pas le sommaire de sa méthode ; son doute apparaît dans la texture.
 - **La description plate** — énumérer des faits extérieurs sans corps, sans vécu, sans détail étrange qui sonne vrai *précisément parce qu'on ne comprend pas pourquoi*.
+- **Sobriété ≠ élision.** La phrase courte d'Izzo est *complète* — il a viré tout ce qui était en trop, pas ce qui la tenait. Une phrase sèche qui boite n'est pas plus tendue, elle est trouée. Vigilance absolue sur :
+  - les *ans*, *fois*, *en*, *de ce que* élidés à tort (*"il a lu ça à douze"* → faute, pas style),
+  - les attributs sans préposition non idiomatiques (*"le carnet est papier"*, *"c'est lui à table"*),
+  - les auxiliaires faux (*"il est monté l'escalier"* → *a monté*, transitif),
+  - les familiarismes orales importés (*pour de vrai*, *aime ça*, *pas peignés*, *qui s'y met*) — à n'utiliser qu'en dialogue, jamais dans la voix du récit,
+  - les anaphores paresseuses (*il commande / il commande / il commande* trois fois en une phrase),
+  - les tautologies (*à son rythme qui est le sien*, *mains à plat paumes contre le bois*),
+  - les appositions sans virgules (*la tasse Ikea*, *une mère Farida Benali*).
 
-À viser à la place : **concret, physique, vécu**. Le trouble passe en sous-main, jamais thématisé frontalement. Laisser des phrases boiter. Accepter la maladresse. Un détail spécifique et bizarre (ex. "un café long avec une eau à côté") vaut mieux qu'une observation générale juste.
+À viser à la place : **concret, physique, vécu**. Le trouble passe en sous-main, jamais thématisé frontalement. Laisser des phrases boiter, oui — mais elles doivent boiter parce qu'on l'a choisi, pas parce qu'on a oublié un mot. Accepter la maladresse. Un détail spécifique et bizarre (ex. "un café long avec une eau à côté") vaut mieux qu'une observation générale juste.
 
 ---
 

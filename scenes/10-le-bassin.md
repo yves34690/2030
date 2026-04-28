@@ -10,9 +10,9 @@ La pierre rosit. Les trois blocs du monument — les taureaux, les chevaux, la f
 
 ---
 
-Antoine est arrivé à sept heures et demie. Il a garé sa voiture rue Élémir-Bourges, il a remonté le boulevard à pied. Il porte sa chemise de lin bleu pâle et le manteau de mi-saison sur le bras, bien qu'il n'ait pas besoin. À la main droite, deux gobelets en carton du kiosque de l'angle : un crème pour lui, un chocolat chaud pour elle. Il sait qu'elle ne boit pas le café. Il le sait depuis qu'elle a douze ans et qu'elle a essayé une fois, par imitation, avec un petit dégoût courageux qu'il n'oubliera pas.
+Antoine est arrivé à sept heures et demie. Il a garé sa voiture rue Élémir-Bourges, il a remonté le boulevard à pied. Il porte sa chemise de lin bleu pâle et le manteau de mi-saison sur le bras, bien qu'il n'en ait pas besoin. À la main droite, deux gobelets en carton du kiosque de l'angle : un crème pour lui, un chocolat chaud pour elle. Il sait qu'elle ne boit pas le café. Il le sait depuis qu'elle a douze ans et qu'elle a essayé une fois, par imitation, avec un petit dégoût courageux qu'il n'oubliera pas.
 
-Il est monté l'escalier jusqu'à mi-hauteur. Il s'est arrêté au premier palier. Il regarde vers le boulevard, il surveille. Il a préféré qu'elle le voie de loin plutôt qu'à la sortie d'un taxi, qu'elle marche jusqu'à lui — c'est ce qu'il savait faire avec elle depuis toujours.
+Il a monté l'escalier jusqu'à mi-hauteur. Il s'est arrêté au premier palier. Il regarde vers le boulevard, il surveille. Il a préféré qu'elle le voie de loin plutôt qu'à la sortie d'un taxi, qu'elle marche jusqu'à lui — c'est ce qu'il savait faire avec elle depuis toujours.
 
 Claire a dit oui à quatre heures du matin quand il a appelé. Elle a dit *oui* sans demander pourquoi. Elle a dit *je la préviens au réveil, elle sera prête*. Elle a ajouté *fais attention*, et il a raccroché sans comprendre à quoi.
 
@@ -20,7 +20,7 @@ Claire a dit oui à quatre heures du matin quand il a appelé. Elle a dit *oui* 
 
 Inès sort de la bouche de métro à sept heures quarante-quatre — Claire l'a déposée à Castellane, elle a pris la ligne jusqu'aux Cinq-Avenues, elle a remonté le boulevard. Elle a quatorze ans. Elle tient son cartable à deux mains devant elle, comme on porte un livre. Jean droit, un pull d'Antoine qu'elle a pris chez Claire il y a trois ans et qu'elle n'a jamais rendu, baskets blanches. Cheveux attachés bas.
 
-Elle le voit à mi-chemin. Elle ne ralentit pas. Elle monte les dix dernières marches à son rythme, qui est le sien.
+Elle le voit à mi-chemin. Elle ne ralentit pas. Elle monte les dix dernières marches à son rythme.
 
 — *Salut.*
 
@@ -58,7 +58,7 @@ Elle hoche la tête une fois. Elle ne dit rien.
 
 Un jogger passe sur l'allée au-dessus du bassin — un homme en short bleu, je le capte de dos. Il ne les voit pas. Eux non plus.
 
-Antoine regarde sa fille de trois-quarts. Il voit la ligne des épaules qu'elle tient droites sans y penser — les siennes, celles de sa mère à lui, l'institutrice d'Endoume devant sa classe de cours préparatoire.
+Antoine regarde sa fille de trois quarts. Il voit la ligne des épaules qu'elle tient droites sans y penser — les siennes, celles de sa mère à lui, l'institutrice d'Endoume devant sa classe de cours préparatoire.
 
 Il sent qu'il doit dire autre chose. Il ne sait pas quoi. Il hésite, et ce qui sort n'est pas préparé.
 
@@ -72,7 +72,7 @@ Elle se lève.
 
 ---
 
-Ils redescendent l'escalier par le côté, celui qui donne sur les jardins. Inès devant, lui derrière. C'est la règle avec elle depuis qu'elle a dix ans — elle n'aime pas qu'on la tienne par la main dans la rue, elle n'aime pas qu'on marche à côté d'elle en lui parlant, elle aime savoir qu'il est derrière, qu'il voit son dos, qu'il est là à la bonne distance. Lui aussi aime ça.
+Ils redescendent l'escalier par le côté, celui qui donne sur les jardins. Inès devant, lui derrière. C'est la règle avec elle depuis qu'elle a dix ans — elle n'aime pas qu'on la tienne par la main dans la rue, elle n'aime pas qu'on marche à côté d'elle en lui parlant, elle aime savoir qu'il est derrière, qu'il voit son dos, qu'il est là à la bonne distance. Lui aussi.
 
 Au bas de l'escalier, il lui propose de la déposer au collège. Elle dit non, elle prendra le métro, elle a le temps. Il n'insiste pas. Elle lui tend le gobelet de chocolat chaud à moitié bu, qu'elle ne veut pas emporter en classe. Il le prend.
 
