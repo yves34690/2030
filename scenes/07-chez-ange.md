@@ -60,9 +60,21 @@ Rose apporte la salade. Elle pose, elle touche l'épaule d'Antoine en passant �
 
 Antoine mange. Tomate, anchois, œuf dur, un filet d'huile d'olive, du persil grossièrement haché. Il mange plus lentement qu'au matin chez Noailles.
 
-Dédé repart, sur la gestion des déchets à Endoume qui est un scandale selon lui. Ange écoute sans répondre. Dédé n'a pas besoin de réponse, il remplit. Lucien ne dit rien. Il regarde par la vitre, il boit son pastis.
+Dédé repart. *J'te dis ce qui est arrivé à Bébert. Tu connais Bébert, le cousin de ma cousine. Enfin c'est plus le cousin, c'est le mari de la fille de ma cousine, c'est pareil. Bébert quoi.* Ange ne dit pas s'il connaît Bébert, Dédé ne s'arrête pas pour si peu. *Sa femme elle reçoit une vidéo, l'autre soir. Bébert à la sortie d'un bar à Cassis. Non, à Aix. Aix c'est où il était, lui, en vrai. Cassis c'est ce qu'on voit sur la vidéo. Tu suis ?*
 
-À un moment, Dédé s'arrête pour reprendre son souffle. Lucien en profite.
+Ange, sans lever la tête :
+
+— *Je suis.*
+
+*Bon. Sur la vidéo c'est lui, c'est sa voix, c'est même sa chemise — la verte là, qu'il met jamais. Et il y a une fille, il l'embrasse. Pas la femme de Bébert, l'autre.* Il prend une gorgée. *Sa femme elle fait la valise, elle part chez sa sœur. Au bout de trois jours elle finit par appeler le frère, là-haut. Bébert il était bien là-haut. Vidéo fake. Elle revient, elle pleure, elle s'excuse, tout ça.* Dédé pose son verre. *Et là tu sais ce qu'il dit, Bébert ?* Il regarde Ange. *Rien. Pas un mot. Tu sais pourquoi ?* Ange ne sait pas pourquoi. *Parce que sur la vidéo, le type, il embrasse avec la main droite. Et Bébert il est gaucher. Lui il l'a vu en deux secondes. Il a rien dit.*
+
+Ange ne lève toujours pas les yeux du verre qu'il essuie.
+
+— *Dédé, pour toi y'a pas de souci. Une vidéo de toi, c'est pas truquable. Y'a pas un algo qui arrive à mettre tes phrases dans l'ordre.*
+
+Lucien rit dans son pastis, sans se retourner. Dédé ouvre la bouche, ne trouve rien, la referme. Il reprend son demi. Il regarde le verre comme s'il y cherchait un mot. Quelqu'un, dehors, dit quelque chose qu'on ne comprend pas, le mot reste sur le trottoir.
+
+Lucien, depuis sa table, sans bouger la tête :
 
 — *J'y suis allé cet aprem.*
 
@@ -120,10 +132,18 @@ Rose sort de la cuisine. Elle essuie ses mains.
 
 Il sort.
 
-La rue d'Endoume est presque noire. Il fait doux. Il monte vers chez lui par le trottoir de gauche. Je ne le suis pas tout de suite. Je reste encore un instant à la porte. À l'intérieur, Dédé s'est remis à parler, plus fort. Lucien se lève, finit son pastis, met un billet sur la table sans compter, dit bonsoir à Ange, à Rose, sort à son tour. Il prend dans l'autre sens qu'Antoine.
+La rue d'Endoume est presque noire. Il fait doux. Il monte vers chez lui par le trottoir de gauche. Je ne le suis pas tout de suite. Je reste encore un instant à la porte. À l'intérieur, Dédé s'est remis à parler, plus fort. Rose s'approche du zinc. Elle a essuyé ses mains une fois, elle les essuie encore. Elle s'arrête à côté d'Ange. Elle dit, à voix basse, sans le regarder :
+
+— *Antoine.*
+
+Ange pose le verre qu'il essuyait. Il fait *mh*. Rose retourne en cuisine.
+
+Lucien se lève, finit son pastis, met un billet sur la table sans compter, dit bonsoir à Ange, à Rose, sort à son tour. Il prend dans l'autre sens qu'Antoine.
 
 Je remonte la rue derrière Antoine. Il marche plus vite qu'à l'aller.
 
 ---
 
-*Brouillon v2 — 2026-04-19. Environ 1350 mots. À relire à tête reposée.*
+*Brouillon v3 — 2026-05-10. Première infusion 2030 dans la texture domestique : Dédé raconte la mésaventure de Bébert (vidéo fake d'infidélité, retournement main droite/gaucher) en s'embrouillant fidèlement (cousin/mari de la fille de la cousine, Cassis/Aix inversés puis perdus en "là-haut", "tu suis ?"). Chute brute "Il a rien dit" sans pirouette tweetable — sous-texte par silence. Ange chambre Dédé sur ce qu'il vient de faire — *"Y'a pas un algo qui arrive à mettre tes phrases dans l'ordre."* Le mot "algo" tenu sciemment : Ange a connu l'ancien monde, il nomme l'algorithme parce qu'il le rejette, ce n'est pas une référence neutre — détail qui pointera vers une enrichissement de sa fiche personnage. Battement avant le pivot Lucien : Dédé qui cherche un mot dans son verre, voix indistincte dehors qui reste sur le trottoir — Marseille parle à côté pendant que la gravité s'installe (lourd et léger en même temps, dire par les silences sans s'arrêter de parler). Antoine reste présent par écoute distraite — son contexte implicite contre la data explicite. Environ 1550 mots.*
+
+*Brouillon v2 — 2026-04-19. Environ 1350 mots.*
