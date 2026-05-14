@@ -20,7 +20,7 @@ Squelette vide. On avance quand les deux premiers `.md` (narratrice, Marseille) 
 
 ---
 
-## Scènes écrites (à ce jour — 14 scènes)
+## Scènes écrites (à ce jour — 15 scènes)
 
 1. Chez Noailles (Marseille, mardi juin 2030, 16h) — Antoine reçoit un message au café, sept minutes d'immobilité.
 2. Marcher derrière — Antoine traverse Marseille à pied vers Endoume.
@@ -36,15 +36,16 @@ Squelette vide. On avance quand les deux premiers `.md` (narratrice, Marseille) 
 12. #ted — trio ado (Eli/Inès/Lila) en parallèle au dîner, commit d'Inès *9-ans.md*.
 13. Lux Veritas — Nora refait le test vendredi matin, Aldrich apparaît.
 14. Lunch Poems — Antoine traverse New York avant le déjeuner avec Daniel : brunch chez Veselka (lieu de jeunesse), librairie The Octave d'Henry Pell (Avenue A), O'Hara dans la poche.
+15. Eisenberg's — déjeuner Daniel/Antoine à Flatiron. Daniel parle (volubile) : papier retiré à The Atlantic, pression dans le milieu, deux noms donnés. Bascule sur les enfants : Eli inquiet pour une amie en France qui joue du piano. Antoine reconnaît Inès, Daniel comprend. Antoine décide de rentrer ce soir, SMS à double authentification à Nora.
 
 ---
 
-## Prochaines scènes (pitchs verrouillés — à écrire)
+## Prochaines scènes (à écrire)
 
-### Scène 15 — Le déjeuner avec Daniel
+### Scène 16 — Retour à Marseille / la nuit du vol
 
-Daniel reçoit Antoine. Sans le vouloir, Daniel révèle une chose qui oblige Antoine à rentrer en urgence à Marseille. (Le quoi reste à émerger.)
+Antoine prend l'avion vers Marseille le vendredi soir. Pitch à émerger lors du prochain rituel narratrice/éditeur.
 
 ---
 
-*Dernière mise à jour : 2026-05-14 — scène 14 écrite, pitch 15 reste verrouillé*
+*Dernière mise à jour : 2026-05-14 — scène 15 écrite*
