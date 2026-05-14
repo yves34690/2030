@@ -51,7 +51,31 @@ La devanture de The Octave est sobre. Lettres peintes à la main sur la vitrine,
 
 Henry ne demande pas pourquoi. C'est ce qu'Antoine est venu chercher — être connu sans devoir raconter. Henry sait qu'Antoine s'expliquera s'il veut, ou ne s'expliquera pas.
 
-Antoine glisse la main dans le rayon de la pièce avant, à gauche en entrant — poésie américaine du XXᵉ siècle classée par ordre alphabétique. Antoine connaît cet ordre par cœur. Bishop, Carson, Hass. Il pose le doigt sur le dos de Bishop, ne sort pas le livre, retire le doigt. Il passe dans la pièce arrière. Il y a deux fauteuils en cuir vieilli, là — l'un rempli d'une pile de livres en équilibre, l'autre vide. Le cuir du vide est lisse, sans creux. Personne n'y a pris la forme d'une personne depuis longtemps. Je le crois, je ne le sais pas — c'est ce que les fauteuils racontent de leurs habitués.
+— *Inès ?*
+
+— *Quatorze ans. Le mercredi c'est sa mère qui appelle pour me dire qu'elle ne viendra pas. La semaine c'est elle qui appelle. Le dimanche, ni l'une ni l'autre. Je m'y suis fait.*
+
+Antoine rit court, sans relever les yeux. Henry hoche la tête. Il ne dit rien.
+
+Il a vu Inès à neuf ans sur une photo qu'Antoine avait sortie d'un portefeuille, un soir d'orage qui les a tenus dans la librairie une heure de plus que prévu. Antoine ne se rappelle pas de l'orage. Henry, oui.
+
+— *Elle lit ?*
+
+— *Plus comme avant. Elle a un piano dans la tête maintenant.*
+
+— *Quel piano.*
+
+— *Goldberg.*
+
+Henry hoche la tête comme si Goldberg s'était assis dans le fauteuil en face. Antoine sourit — pas un sourire qu'on voit du dehors, un relâchement dans la mâchoire.
+
+— *Et toi ?*
+
+— *Moi je tiens. Mes lunettes se débrouillent.*
+
+Antoine rit cette fois, vrai. Sur le rayon derrière Henry, Antoine voit un Wallace Stevens qu'il avait acheté ici en deux mille quatorze et qu'il a perdu dans le déménagement de deux mille vingt-huit. Il ne le rachète pas. Il ne le dit pas.
+
+Antoine glisse la main dans le rayon de la pièce avant, à gauche en entrant — poésie américaine du XXᵉ siècle classée par ordre alphabétique. Antoine connaît cet ordre par cœur. Bishop, Carson, Hass. Il pose le doigt sur le dos de Bishop, ne sort pas le livre, retire le doigt. Il passe dans la pièce arrière. Il y a deux fauteuils en cuir vieilli, là — l'un rempli d'une pile de livres en équilibre, l'autre vide. Le cuir du vide est lisse, sans creux. On y poserait la main comme à la pierre d'un porche en passant. Je le crois, je ne le sais pas — c'est ce que les fauteuils racontent de leurs habitués.
 
 Antoine ne s'assoit pas. Il fait le tour de la table basse, sur laquelle Henry a posé trois livres ouverts comme des propositions : un Wallace Stevens en édition Library of America, une traduction des *Métamorphoses* par Hofmann, un Carson récent. Antoine prend le Carson, lit deux lignes, repose. Il repasse dans la pièce avant.
 
@@ -90,6 +114,8 @@ Il prend à droite, vers Tompkins Square. Il a en tête de traverser le parc, pu
 Je le laisse marcher seul. J'attends à Flatiron.
 
 ---
+
+*Brouillon v3 — 2026-05-14. Retravail du passage Henry après note Yves sur le manque de chaleur humaine — "Antoine est trop seul, il a parfois besoin des autres". Deux modifications : (1) **fulgurance poétique** — la phrase "Personne n'y a pris la forme d'une personne depuis longtemps" (bancale, et trop morbide pour le moment où Antoine vient retrouver son ancre) remplacée par "On y poserait la main comme à la pierre d'un porche en passant" — geste de tendresse gratuit, accord silencieux d'âme, comme un baiser sur la main de sa femme pour dire je t'aime sans le dire (image Yves) ; (2) **dialogue étoffé** — insertion d'un passage où Antoine se livre sur Inès (le mercredi de sa mère, Goldberg en piano dans la tête), Henry retient ("Moi je tiens. Mes lunettes se débrouillent."), trois mouvements progressifs sur le visage d'Antoine (rire court désarmé → sourire intérieur → rire vrai), sortie sur un Wallace Stevens vu sur l'étagère qu'Antoine avait acheté ici en 2014 et perdu dans le déménagement de 2028 — il ne le rachète pas, il ne le dit pas. La saveur visée : **oxymore légèreté ↔ profondeur** — qualité du geste-pierre-de-porche tenue dans le dialogue, à imprégner partout dans le livre (DNA mis à jour).*
 
 *Brouillon v2 — 2026-05-14. Sept coupes appliquées après passage éditeurs voix/structure : (1) Promenade rabotée — BQE 1954, pont 140 ans, deux péniches symétriques, "ni Méditerranée ni fleuve" coupés (glose + équilibre rhétorique) ; (2) métro F dégraissé — triplette figurants Morrison/dormeur/addict écran coupée (composition carte postale) ; (3) "parce que la ville respire le fleuve" coupé (explication causale didactique) ; (4) "Personne ne va la remplacer" coupé (anaphore tweetable) ; (5) phrase-fermeture du souvenir Daniel à Veselka coupée — souvenir gardé en images vives (chemise Goodwill, pierogis, Bolaño, Ludlow Street, Antoine écoute), ne ferme plus, ne paie plus d'avance la 15 ; (6) deuxième passage du manager à 10h40 coupé — premier hochement portait la reconnaissance, le retour était une boucle de politesse ; (7) "Cette fois, c'est dedans" coupé — thématisait l'affleurement frontalement, "Comme la fourchette en l'air chez Ange l'autre soir" suffit. Position narratrice tenue : rappel à la fourchette en l'air conservé — motif assumé, fait son travail sans appuyer.*
 

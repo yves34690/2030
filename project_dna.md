@@ -75,6 +75,7 @@ Par défaut, on va vers le pôle noir solaire. On bascule vers la fresque quand 
 - Marseille est présente même quand elle n'est pas nommée
 - La narratrice ne triche pas : si elle invente, elle le dit
 - Les dialogues portent du sous-texte, jamais juste de l'information
+- **Légèreté ↔ profondeur en oxymore permanent.** Une scène, un dialogue, une phrase doivent pouvoir porter les deux à la fois. La gravité passe en sous-main d'un geste léger ; le rire vient sur du grave. Modèle de référence : *"On y poserait la main comme à la pierre d'un porche en passant"* (scène 14) — geste de tendresse gratuit, accord silencieux d'âme, dit en propositions qui glissent. La saveur du livre tient à cette alternance — pas de minimalisme automatique, pas de gravité continue. Vie qui ondule, états qui traversent dans une même journée, dans une même heure, dans une même phrase.
 
 ---
 
@@ -130,4 +131,4 @@ Différence fondatrice : *voix littéraire* ≠ *rhétorique soignée*. Izzo et 
 
 ---
 
-*Dernière mise à jour : 2026-04-16 — squelette initial*
+*Dernière mise à jour : 2026-05-14 — ajout de l'oxymore légèreté ↔ profondeur en obligation permanente (section 5), suite à note Yves sur la scène 14*
