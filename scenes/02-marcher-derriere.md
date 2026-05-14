@@ -1,6 +1,7 @@
 # 2. Marcher derrière
 
 > Deuxième scène. Titre provisoire — à challenger.
+> V2 après diagnostic d'arc (2026-05-14) — la 1 plantait trois crochets, la 2 prolongeait sans en planter aucun. Ajout d'un crochet 2030 gratuit (ZONE BLANCHE sur la vitre du coiffeur, devant l'immeuble) dans le champ de la narratrice, hors champ d'Antoine, pendant qu'il est "différé". Pas de glose. Aucune autre coupe — décision : on garde la texture v1 dont le lecteur-test a confirmé qu'elle tenait.
 > Suit immédiatement la scène 1. Antoine sort de chez Noailles et remonte vers Endoume à pied, quarante minutes. Première traversée de Marseille par la narratrice. Le message de la scène 1 n'est pas tranché.
 
 ---
@@ -31,6 +32,8 @@ Il remonte par la rue d'Endoume. On s'élève sans monter vraiment, le trajet me
 
 Devant son immeuble, il ne monte pas tout de suite. Il pose le sac sur le muret du coiffeur, il sort la bouteille, il boit deux gorgées encore, il referme. Il regarde la porte. Il ne sort pas sa clé. Il ne fait rien. Une minute, peut-être plus. Je ne compte pas cette fois-ci, ça ne se compte pas comme les sept minutes de tout à l'heure — il n'a pas cette immobilité-là. Il bascule son poids d'un pied sur l'autre, il se passe la main sur la nuque où les cheveux sont un peu mouillés. Son visage n'est pas tendu. Il est juste — différé. C'est le mot qui me vient. Un homme qui décide de retarder d'une minute quelque chose qu'il lui faudra faire de toute façon.
 
+Sur la vitre du coiffeur, à hauteur d'œil, un autocollant rond — ZONE BLANCHE. Quelqu'un a commencé à le retirer, puis non. Il a la poussière de l'été.
+
 Puis il sort la clé, ouvre la porte du bas, entre dans la cage d'escalier. La porte se referme sur un courant d'air qui sent la pierre fraîche. Ça, cette odeur-là, je ne l'ai pas inventée. Je l'ai prise quelque part.
 
 Je reste sur le trottoir. Je regarde le muret du coiffeur où il a posé son sac, et la poussière a gardé la forme rectangulaire de l'appui. Dans deux minutes, le mistral — s'il se lève, et il ne se lèvera pas aujourd'hui — aurait tout emporté. Mais il ne se lève pas. La forme reste.
@@ -38,5 +41,7 @@ Je reste sur le trottoir. Je regarde le muret du coiffeur où il a posé son sac
 Je monte derrière.
 
 ---
+
+*Brouillon v2 — 2026-05-14. Ajout du crochet ZONE BLANCHE (autocollant rond sur la vitre du coiffeur, vu par la narratrice, gratuit — pas repris ailleurs). Première version posée sur la Corniche, déplacée après passage éditeurs voix/structure : les deux ont convergé sur un "sandwich 2030" (autocollant + vieux au téléphone éteint + glose) qui saturait le paragraphe. Décision narratrice (validée Yves) : déplacer le crochet juste après le "différé" devant l'immeuble — il partage la scène avec le micro-événement le plus chargé d'Antoine (l'homme qui retarde), résonne matériellement avec la dernière image ("la poussière a gardé la forme rectangulaire de l'appui"), et laisse respirer la Corniche v1. "Lettres simples" coupé (voix : sonnait narratrice-éditrice). Aucune autre coupe — Yves garde la texture v1, y compris "C'est Marseille qui a raison" et "Je le note et je ne fais rien de la note". Résonances discrètes possibles avec Chez Ange (résistance dans le tissu) et Saint-Giniez (hors écran) — gratuites, aucun "ah ah" rétroactif obligé.*
 
 *Brouillon v1 — 2026-04-18. Environ 1250 mots. À relire à tête reposée.*
