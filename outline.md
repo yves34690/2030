@@ -20,7 +20,7 @@ Squelette vide. On avance quand les deux premiers `.md` (narratrice, Marseille) 
 
 ---
 
-## Scènes écrites (à ce jour — 13 scènes)
+## Scènes écrites (à ce jour — 14 scènes)
 
 1. Chez Noailles (Marseille, mardi juin 2030, 16h) — Antoine reçoit un message au café, sept minutes d'immobilité.
 2. Marcher derrière — Antoine traverse Marseille à pied vers Endoume.
@@ -35,16 +35,11 @@ Squelette vide. On avance quand les deux premiers `.md` (narratrice, Marseille) 
 11. Le diner — Brooklyn Heights, retrouvailles Antoine/Nora/Daniel.
 12. #ted — trio ado (Eli/Inès/Lila) en parallèle au dîner, commit d'Inès *9-ans.md*.
 13. Lux Veritas — Nora refait le test vendredi matin, Aldrich apparaît.
+14. Lunch Poems — Antoine traverse New York avant le déjeuner avec Daniel : brunch chez Veselka (lieu de jeunesse), librairie The Octave d'Henry Pell (Avenue A), O'Hara dans la poche.
 
 ---
 
 ## Prochaines scènes (pitchs verrouillés — à écrire)
-
-### Scène 14 — Antoine dans New York avant le déjeuner avec Daniel
-
-Vendredi 19 juin 2030, matinée NY. Après le test forensique de ce matin chez Nora (la 13 a confirmé que le dispositif joue les deux côtés — Azoulay + Aldrich), Antoine sent quelque chose s'allumer. Son instinct fait un lien que Nora n'atteint pas par l'analyse data. Pour le creuser, il a besoin de Daniel — ancien grand journaliste d'investigation devenu président d'Aletheia. Il sait que Daniel a des réunions d'investisseurs ce matin. Il décide d'aller le voir au déjeuner.
-
-Avant : il a besoin de **rassembler ses idées** et de **sentir New York**. Il voit de vieilles connaissances new-yorkaises avant le déjeuner. La scène doit dévoiler **l'Antoine intime, celui qu'on ne connaît pas encore** — par ces rencontres on découvre des couches de lui qu'on n'a pas vues à Marseille. New York comme deuxième ville-personnage (cf. `personnages/newyork.md` à consulter avant d'écrire).
 
 ### Scène 15 — Le déjeuner avec Daniel
 
@@ -52,4 +47,4 @@ Daniel reçoit Antoine. Sans le vouloir, Daniel révèle une chose qui oblige An
 
 ---
 
-*Dernière mise à jour : 2026-05-11 — pitchs 14 et 15 verrouillés en fin de session*
+*Dernière mise à jour : 2026-05-14 — scène 14 écrite, pitch 15 reste verrouillé*
