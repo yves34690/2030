@@ -4,6 +4,12 @@
 > Tient deux chronologies, quatre pistes d'enquête, et la vérité finale. Tient aussi ce que le lecteur doit **croire à chaque moment**.
 > Mise à jour : 2026-04-23.
 
+> ⚠️ **RESYNCHRONISATION DE CONTINUITÉ — 2026-05-16.** Ce dossier (avril 2026) est antérieur aux scènes écrites et désynchronisé. **Version canonique**, fixée par les scènes 9/13/15 et validée par Yves :
+> - **Antoine Manzoni n'est pas procureur.** Il est **expert en authentification visuelle** ; c'est lui qui a expertisé la vidéo du hall et l'a **validée comme authentique** — sa faute professionnelle est le moteur de son arc.
+> - **Le crime a lieu à Marseille** (rue Nau, 6e), **le soir du 9 octobre 2026** (et non en juin 2027).
+> - La chronologie interne ci-dessous (pression gouvernementale, Charte, instruction, procès) est à **lire décalée d'environ huit mois en arrière**. Refonte ligne à ligne à faire ultérieurement.
+> - En cas de conflit, **les scènes écrites et cet encadré priment.**
+
 ---
 
 ## 1. Deux chronologies

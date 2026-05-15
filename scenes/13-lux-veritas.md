@@ -79,7 +79,7 @@ Il pose la main sur le dossier de la chaise. Pas sur elle. Sur la chaise. Il la 
 
 Au mur, la lettre encadrée du type de 2023. Antoine la voit. Il l'a déjà vue — il était dans cette pièce en 2024 pour un papier qu'ils écrivaient à quatre mains. La lettre n'a pas bougé. La pièce non plus.
 
-À l'écran de gauche, Azoulay. Hall d'immeuble parisien, 9 octobre 2026, vingt-trois heures onze. Karim Benali, signature insérée sur le montant gauche de la porte battante. Trois ans aux Baumettes. Sa femme, Farida Benali, qui pèse quarante-huit kilos.
+À l'écran de gauche, Azoulay. Hall d'immeuble marseillais, 9 octobre 2026, vingt-trois heures onze. Karim Benali, signature insérée sur le montant gauche de la porte battante. Trois ans aux Baumettes. Sa femme, Farida Benali, qui pèse quarante-huit kilos.
 
 À l'écran de droite, Aldrich. Laverie de Webster Avenue, 14 octobre 2027, vingt-deux heures quarante-sept. Robert Aldrich, signature insérée pendant les trois minutes d'alibi. Acquitté. Quelque part — je ne le tiens pas — Carolina Reyes est morte.
 

@@ -1,7 +1,13 @@
 # Esther Azoulay
 
-> Fiche vivante. Personnage mort dans la chronologie (8 juin 2027), mais présent dans le roman par ses textes, ses interviews, sa correspondance, le souvenir de ceux qui l'ont connue — et par ce qu'Antoine et Nora rouvrent de son dossier en 2030.
+> Fiche vivante. Personnage mort dans la chronologie, mais présent dans le roman par ses textes, ses interviews, sa correspondance, le souvenir de ceux qui l'ont connue — et par ce qu'Antoine et Nora rouvrent de son dossier en 2030.
 > Contradiction centrale : **une philosophe qui a écrit la conscience d'une machine, qui ne pouvait plus se parler à elle-même.**
+
+> ⚠️ **RESYNCHRONISATION DE CONTINUITÉ — 2026-05-16.** Cette fiche (avril 2026) est antérieure aux scènes écrites et désynchronisée. **Version canonique**, fixée par les scènes 9/13/15 et validée par Yves :
+> - Esther meurt **le soir du 9 octobre 2026** (et non le 8 juin 2027), à Marseille, rue Nau.
+> - **Antoine Manzoni n'est pas procureur** : il est **expert en authentification visuelle** ; c'est lui qui a validé la vidéo du hall comme authentique.
+> - Les dates internes ci-dessous (mort, pression gouvernementale du « printemps 2027 », etc.) sont à **lire décalées d'environ huit mois en arrière**. Refonte ligne à ligne à faire ultérieurement.
+> - En cas de conflit, **les scènes écrites et cet encadré priment.**
 
 ---
 
