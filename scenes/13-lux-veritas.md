@@ -21,7 +21,7 @@ FORVEX 2.3 ouvre. Elle a préparé hier soir trois fichiers dans le dossier `azo
 
 Elle attend. Elle ne fait pas tourner Ólafsson. Pas ce matin.
 
-Onze minutes. Le résultat tombe. *Signature détectée — corrélation 94,7%, modèle famille Mira-7 (2027), profondeur 8 couches, déviation parallaxe cohérente avec insertion de visage par diffusion sur séquence-corps tournée ailleurs.* Elle lit deux fois. Elle ne tape rien. Elle fait tourner son alliance une fois sur l'annulaire. Elle a vu, hier après-midi, le même résultat. Une raideur dans la main.
+Onze minutes. Le résultat tombe. *Signature détectée — corrélation 94,7%, modèle famille Mira-7 (2027), profondeur 8 couches, déviation parallaxe cohérente avec insertion de visage par diffusion sur séquence-corps tournée ailleurs.* Elle lit deux fois. Elle ne tape rien. Elle fait tourner son alliance une fois sur l'annulaire, une raideur dans la main. Elle a vu, hier après-midi, le même résultat.
 
 Elle passe au deuxième fichier. Affaire de 2023 — l'homme dont la lettre est sur le mur. Vidéo de surveillance fabriquée à l'époque par les méthodes qu'on avait alors. Nora avait démonté la fabrication. Elle utilise cette vidéo comme corpus de contrôle parce que c'est sa victoire la plus nette, et elle veut voir si la signature 2027 qu'elle vient de marquer sur Azoulay apparaît sur du faux d'une autre époque ou pas.
 
