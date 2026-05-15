@@ -16,7 +16,7 @@ Antoine la regarde. Il pose le sac contre la console. Il commence à dire que la
 
 Nora hoche la tête une fois. Elle ne relance pas. Elle lui dit qu'il a quatre minutes pour une douche s'il en veut une, qu'elle n'a pas envie de cuisiner, qu'on peut marcher au diner à deux blocs.
 
-Il monte. Le compteur d'eau de la brownstone est connecté à l'application qu'elle consulte une fois par jour pour vérifier les fuites — il s'arrête à trois minutes quarante. Il redescend en chemise propre, la bleue qui était dans son sac, mal repassée parce que sa femme de ménage est en vacances et qu'il l'a faite lui-même hier matin. Je suppose qu'il l'a faite lui-même. Je n'en ai pas la preuve.
+Il monte. Le compteur d'eau de la brownstone est connecté à l'application qu'elle consulte une fois par jour pour vérifier les fuites — il enregistre une douche de trois minutes quarante. Il redescend en chemise propre, la bleue qui était dans son sac, mal repassée parce que sa femme de ménage est en vacances et qu'il l'a faite lui-même hier matin. Je suppose qu'il l'a faite lui-même. Je n'en ai pas la preuve.
 
 ---
 
@@ -50,11 +50,11 @@ Nora respire une fois plus longtemps que d'habitude. C'est son signe. Elle va r�
 
 — *Je crois que j'ai peur de la possibilité qu'on ait raté quelque chose en 2028 qui était déjà là avant. Qui avait commencé sans qu'on le voie, et qu'on n'a pas vu non plus quand on est arrivés dessus.*
 
-Antoine pose le sucre. Il rouvre la chemise d'un autre bouton, il a encore chaud. Il glisse vers le dossier, mais il glisse mal — il n'enchaîne pas, il pose seulement une question dont il connaît la réponse.
+Antoine pose le sucre. Il défait un autre bouton de sa chemise, il a encore chaud. Il glisse vers le dossier, mais il glisse mal — il n'enchaîne pas, il pose seulement une question dont il connaît la réponse.
 
 — *Tu en es où.*
 
-Elle répond court. La signature dans la vidéo correspond à un modèle déployé en 2027. Si elle est dans les données de 2026, elle a été ajoutée plus tard. Elle veut refaire le test demain matin avec deux corpus de contrôle. Si ça tient, ils ont quelque chose. Antoine prend un stylo dans sa poche intérieure, il écrit quatre mots au verso du set de table en papier, il replie le set et le glisse dans la poche poitrine. Il ne demande pas plus. Il sait qu'il n'écouterait pas plus.
+Elle répond court. La signature dans la vidéo correspond à un modèle déployé en 2027. Si elle est dans les données de 2026, elle a été ajoutée plus tard. Elle veut refaire le test demain matin avec deux corpus de contrôle. Si ça tient, ils ont quelque chose. Antoine prend un stylo dans sa poche intérieure, il écrit quatre mots au verso du set de table en papier, il replie le set et le glisse dans la poche de poitrine. Il ne demande pas plus. Il sait qu'il n'écouterait pas plus.
 
 Marsha repasse, remplit le café de Nora sans demander, regarde le thé d'Antoine qu'il n'a pas commencé. Elle s'éloigne. Antoine commande une soupe à l'oignon, parce que c'est ce qu'il commande quand il ne peut pas manger. Nora prend un grilled cheese qu'elle ne finira pas.
 

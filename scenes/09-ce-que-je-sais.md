@@ -26,15 +26,15 @@ Sur la séquence de 23h08 à 23h11 — la séquence que tu as validée — je tr
 
 **Ce que je ne sais pas.**
 
-Je ne sais pas qui a fabriqué le composite. Je n'ai pas de signature de modèle, pas de trace d'outil. Les modèles génératifs utilisés en 2027 ne laissent pas ce genre de résidus auxquels on serait habitués aujourd'hui.
+Je ne sais pas qui a fabriqué le composite. Je n'ai pas de signature de modèle, pas de trace d'outil. Les modèles génératifs utilisés en 2027 ne laissent pas ces résidus auxquels on serait habitués aujourd'hui.
 
-Je ne sais pas comment la vidéo est entrée au dossier sans que la défense ou toi vous n'ayez rien vu. Je n'accuse pas — je le dis parce qu'il faut le dire. En 2028, avec les outils dont nous disposions, cette vidéo passait. Tu l'as regardée, je l'ai regardée aussi à l'époque par lecture croisée sur demande des avocats de la défense, je n'ai rien vu non plus. Nous n'avons rien raté. Nous avons manqué ce qu'il était impossible de voir alors.
+Je ne sais pas comment la vidéo est entrée au dossier sans que la défense ou toi voyiez quoi que ce soit. Je n'accuse pas — je le dis parce qu'il faut le dire. En 2028, avec les outils dont nous disposions, cette vidéo passait. Tu l'as regardée, je l'ai regardée aussi à l'époque par lecture croisée sur demande des avocats de la défense, je n'ai rien vu non plus. Nous n'avons rien raté. Nous avons manqué ce qu'il était impossible de voir alors.
 
 Je ne sais pas si c'est un geste isolé ou un dispositif. Je ne sais pas à qui cela sert.
 
 **Ce que je suppose.**
 
-Je suppose que la vidéo est un composite. Le visage de Karim Benali, inséré par diffusion, sur une séquence tournée ailleurs, probablement entre 22 heures et 22h45 le même soir, dans une cage d'escalier ou un hall voisin. Quelqu'un — je ne sais pas qui — avait intérêt à le placer dans le hall de Esther Azoulay à 23h11.
+Je suppose que la vidéo est un composite. Le visage de Karim Benali, inséré par diffusion, sur une séquence tournée ailleurs, probablement entre 22h00 et 22h45 le même soir, dans une cage d'escalier ou un hall voisin. Quelqu'un — je ne sais pas qui — avait intérêt à le placer dans le hall d'Esther Azoulay à 23h11.
 
 Je suppose que Karim Benali n'a pas tué Esther Azoulay. Si j'ai raison, il purge depuis trois ans une peine pour un meurtre qu'il n'a pas commis. Je tiens cette phrase en bouche depuis mardi matin. Elle ne se dissout pas.
 

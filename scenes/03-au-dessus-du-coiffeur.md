@@ -15,7 +15,7 @@ L'appartement tient en trois pièces. Un séjour sur la rue, une chambre sur la 
 
 Il ouvre le robinet de la cuisine. L'eau coule deux secondes à plein débit, puis le compteur valide la ration de l'heure et le filet faiblit d'un tiers. C'est comme ça depuis deux étés. On ne rouspète plus, on s'organise ; il se sert un verre, il le boit debout, il se ressert, il boit encore. Il pose le verre sans le rincer. Il reviendra le chercher plus tard ou il ne reviendra pas.
 
-Dans la chambre, il retire la chemise. Elle est trempée sous les bras et dans le dos. Ça sent le lin chauffé et la sueur qui a séché au soleil, un peu de savon, un peu de la rue. Il la laisse en tas sur le lit, pas dans le panier — ça, c'est nouveau pour moi. Je l'avais classé ordonné. Je corrige. Il enfile un tee-shirt blanc plié qui était dans le tiroir du haut, il ne prend pas la peine de le défroisser.
+Dans la chambre, il retire sa chemise. Elle est trempée sous les bras et dans le dos. Ça sent le lin chauffé et la sueur qui a séché au soleil, un peu de savon, un peu de la rue. Il la laisse en tas sur le lit, pas dans le panier — ça, c'est nouveau pour moi. Je l'avais classé comme ordonné. Je corrige. Il enfile un tee-shirt blanc plié qui était dans le tiroir du haut, il ne prend pas la peine de le défroisser.
 
 Il revient au séjour. Sur l'étagère d'en face, un cadre numérique fait défiler des images, douze à la minute. Inès à neuf ans, à Saint-Cyr, dans le sable. Inès à onze, avec le chien de sa mère qu'il n'a jamais aimé. Inès à treize, presque quatorze, qui ne regarde pas l'appareil. La lumière des photos n'est pas tout à fait naturelle. Un filtre correctif tourne en fond, il efface ce qui est trop cru et tire le tout vers une heure dorée qui n'a pas existé. Il le sait. Je l'ai vu cocher puis décocher cette case, un soir, puis la recocher. Je ne le juge pas. Je ne le dis pas non plus, il ne me parle pas.
 
@@ -23,7 +23,7 @@ Sur la table basse, trois livres empilés. Le premier, broché gris, papier, cor
 
 Le climatiseur mural se met en route tout seul — l'appli a lu qu'il est rentré et qu'il fait trente-deux degrés dans la pièce. Il ne corrige pas le réglage.
 
-Il s'assoit sur le canapé — bleu sombre, affaissé d'un côté, trop large pour la pièce. Il ne pose pas le téléphone. Il le tient à plat contre sa cuisse, sans le regarder. Le temps étire. Un autre homme remplirait ce silence — télé, musique, un appel à quelqu'un qui habite trop loin. Lui, non.
+Il s'assoit sur le canapé — bleu sombre, affaissé d'un côté, trop large pour la pièce. Il ne pose pas le téléphone. Il le tient à plat contre sa cuisse, sans le regarder. Le temps s'étire. Un autre homme remplirait ce silence — télé, musique, un appel à quelqu'un qui habite trop loin. Lui, non.
 
 Son téléphone vibre. Deuxième vibration de la journée, première depuis tout à l'heure chez Noailles. Il le prend. Il regarde. Ce n'est pas le même interlocuteur ou ce n'est pas le même sujet — le pouce descend sans s'arrêter, c'est le geste de quelqu'un qui cherche quoi, pas de quelqu'un qui répond à qui. Il remet le téléphone à l'envers sur la table basse, écran contre le bois, comme tout à l'heure la tasse de café sur la nappe.
 

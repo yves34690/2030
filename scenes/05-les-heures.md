@@ -21,7 +21,7 @@ Il prend le téléphone trente secondes plus tard, il tape *oui je suis là* et 
 
 Il repose le téléphone. Il ne le remet pas à l'envers cette fois. Il le laisse à l'endroit.
 
-Il se ressert de l'eau. Il mange quelque chose debout, une tomate coupée sur une assiette, du pain qu'il ne fait pas griller. Il ne se sert pas de chaise.
+Il se ressert de l'eau. Il mange quelque chose debout, une tomate coupée sur une assiette, du pain qu'il ne fait pas griller. Il ne prend pas de chaise.
 
 La lumière baisse doucement. L'or vient de gauche, de la mer qu'on ne voit pas, et il allonge les ombres des meubles sur le parquet. L'enceinte blanche, près de l'entrée, change de teinte sans qu'on lui ait rien demandé — elle suit l'horaire, elle se met en mode soir. Antoine la regarde, ou il croise son regard à elle, ce qui est absurde quand on le dit comme ça.
 

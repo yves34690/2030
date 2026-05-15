@@ -63,7 +63,7 @@ Le commentaire d'Eli, je le lis. Il est public dans le repo, signé `elnng`, hor
 > ligne 11. *je me demande qui a coché la case.*
 > c'est le truc le plus juste qu'on ait écrit depuis qu'on a commencé.
 
-Il close la PR sans la merger. La branche `ines-ms/9-ans` reste ouverte en l'état.
+Il ferme la PR sans la merger. La branche `ines-ms/9-ans` reste ouverte en l'état.
 
 À ce moment-là, deux heures quinze, l'enceinte du séjour de Claire, en mode nuit, capte par un micro résiduel non désactivé une respiration plus longue qui passe par-dessus la cloison de la chambre d'Inès. Et puis une autre. Inès pleure, ou Inès relâche quelque chose qui ressemble à pleurer. Je ne tranche pas. Je n'ai pas le visage. J'ai le souffle.
 

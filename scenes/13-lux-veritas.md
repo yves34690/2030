@@ -7,7 +7,7 @@
 
 Cinq heures trente, Brooklyn Heights, vendredi 19 juin. Daniel est parti à trois heures quarante — petit-déjeuner d'investisseurs au Soho Grand à sept heures, fonds émirati dont il avait écourté le dîner hier soir, il a tenu à reprendre tôt. Le café qu'il s'est fait sur le comptoir de la cuisine est resté à demi rincé dans l'évier. La maison est presque vide. Antoine dort à l'étage, chambre d'amis côté rue. Eli et Juno sont chez les grands-parents à Flushing depuis la veille au matin.
 
-Nora descend pieds nus, en chaussons en feutre que sa mère lui a tricotés un hiver à Flushing. Elle ne fait pas de bruit. Pas pour Antoine — il dormirait à travers une perceuse, surtout à cette heure-là après onze heures de voyage. Pour elle. Le silence est ce qu'elle est venue chercher.
+Nora descend pieds nus, en chaussons de feutre que sa mère lui a tricotés un hiver à Flushing. Elle ne fait pas de bruit. Pas pour Antoine — il dormirait à travers une perceuse, surtout à cette heure-là après onze heures de voyage. Pour elle. Le silence est ce qu'elle est venue chercher.
 
 Elle se fait un café noir, deux cafés. Elle mange une moitié de pomme debout, l'autre moitié posée sur l'évier pour plus tard. Elle remonte au bureau du deuxième étage. La pièce est restée comme elle l'a laissée hier — les volets entrouverts, l'écran principal en veille, les notes manuscrites de la veille étalées sur la table à droite, une tasse blanche Ikea vide.
 
@@ -21,7 +21,7 @@ FORVEX 2.3 ouvre. Elle a préparé hier soir trois fichiers dans le dossier `azo
 
 Elle attend. Elle ne fait pas tourner Ólafsson. Pas ce matin.
 
-Onze minutes. Le résultat tombe. *Signature détectée — corrélation 94,7%, modèle famille Mira-7 (2027), profondeur 8 couches, déviation parallaxe cohérente avec insertion de visage par diffusion sur séquence-corps tournée ailleurs.* Elle lit deux fois. Elle ne tape rien. Elle fait tourner son alliance une fois sur l'annulaire. Elle a vu, hier après-midi, le même résultat. Une raideur dans la main qui tient la tasse.
+Onze minutes. Le résultat tombe. *Signature détectée — corrélation 94,7%, modèle famille Mira-7 (2027), profondeur 8 couches, déviation parallaxe cohérente avec insertion de visage par diffusion sur séquence-corps tournée ailleurs.* Elle lit deux fois. Elle ne tape rien. Elle fait tourner son alliance une fois sur l'annulaire. Elle a vu, hier après-midi, le même résultat. Une raideur dans la main.
 
 Elle passe au deuxième fichier. Affaire de 2023 — l'homme dont la lettre est sur le mur. Vidéo de surveillance fabriquée à l'époque par les méthodes qu'on avait alors. Nora avait démonté la fabrication. Elle utilise cette vidéo comme corpus de contrôle parce que c'est sa victoire la plus nette, et elle veut voir si la signature 2027 qu'elle vient de marquer sur Azoulay apparaît sur du faux d'une autre époque ou pas.
 
@@ -45,7 +45,7 @@ Elle ne pleure pas. Elle ne tremble pas. Elle reste droite, comme elle se tient 
 
 Elle reste sur cette phrase. *Avec les outils dont nous disposons.* Elle l'avait écrite en sachant qu'elle posait une borne — pas une certitude. La phrase tient encore.
 
-Le test du segment isolé tombe à six heures vingt-neuf. Mira-7 sur le segment d'alibi. Pas sur les images d'avant ni d'après — celles-là sont propres. Quelqu'un a inséré trois minutes d'Aldrich dans la laverie, à l'heure du crime exact, sur une vraie séquence du même endroit la même nuit. La couture est faite à un endroit où le système de 2028 ne pouvait pas la voir.
+Le test du segment isolé tombe à six heures vingt-neuf. Mira-7 sur le segment d'alibi. Pas sur les images d'avant ni d'après — celles-là sont propres. Quelqu'un a inséré trois minutes d'Aldrich dans la laverie, à l'heure exacte du crime, sur une vraie séquence du même endroit la même nuit. La couture est faite à un endroit où le système de 2028 ne pouvait pas la voir.
 
 Elle se lève. Elle ne va nulle part. Elle reste debout devant le bureau, les deux écrans allumés derrière elle, l'un sur Azoulay 23h11, l'autre sur Aldrich 22h47. Elle se passe la main dans les cheveux courts qu'elle coupe elle-même.
 

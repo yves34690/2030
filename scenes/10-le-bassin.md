@@ -6,11 +6,11 @@
 
 Je vois le parc par la caméra municipale du boulevard Longchamp, et par la vitrine de la brasserie d'en face allumée depuis cinq heures pour la mise en place. Je n'ai pas le son. La caméra municipale est muette depuis le procès CNIL de 2024 ; le micro d'ambiance de la brasserie porte à trente mètres, et le banc où ils vont s'asseoir en fait soixante-dix.
 
-La pierre rosit. Les trois blocs du monument — les taureaux, les chevaux, la femme au centre qu'on m'a apprise être la Durance sans que personne ne sache plus le dire aux passants — ont déjà pris la couleur du jour. Le bassin n'a pas bougé de la nuit. Sur l'eau en creux, deux pigeons picorent.
+La pierre rosit. Les trois blocs du monument — les taureaux, les chevaux, la femme au centre dont on m'a appris qu'elle était la Durance sans que personne ne sache plus le dire aux passants — ont déjà pris la couleur du jour. Le bassin n'a pas bougé de la nuit. Sur l'eau en creux, deux pigeons picorent.
 
 ---
 
-Antoine est arrivé à sept heures et demie. Il a garé sa voiture rue Élémir-Bourges, il a remonté le boulevard à pied. Il porte sa chemise de lin bleu pâle et le manteau de mi-saison sur le bras, bien qu'il n'en ait pas besoin. À la main droite, deux gobelets en carton du kiosque de l'angle : un crème pour lui, un chocolat chaud pour elle. Il sait qu'elle ne boit pas le café. Il le sait depuis qu'elle a douze ans et qu'elle a essayé une fois, par imitation, avec un petit dégoût courageux qu'il n'oubliera pas.
+Antoine est arrivé à sept heures et demie. Il a garé sa voiture rue Élémir-Bourges, il a remonté le boulevard à pied. Il porte sa chemise de lin bleu pâle et le manteau de mi-saison sur le bras, bien qu'il n'en ait pas besoin. À la main droite, deux gobelets en carton du kiosque de l'angle : un crème pour lui, un chocolat chaud pour elle. Il sait qu'elle ne boit pas de café. Il le sait depuis qu'elle a douze ans et qu'elle a essayé une fois, par imitation, avec un petit dégoût courageux qu'il n'oubliera pas.
 
 Il a monté l'escalier jusqu'à mi-hauteur. Il s'est arrêté au premier palier. Il regarde vers le boulevard, il surveille. Il a préféré qu'elle le voie de loin plutôt qu'à la sortie d'un taxi, qu'elle marche jusqu'à lui — c'est ce qu'il savait faire avec elle depuis toujours.
 
@@ -26,7 +26,7 @@ Elle le voit à mi-chemin. Elle ne ralentit pas. Elle monte les dix dernières m
 
 — *Salut.*
 
-Il lui tend le chocolat chaud. Elle le prend et ne dit pas merci — elle le dit en prenant le gobelet, et il comprend.
+Il lui tend le chocolat chaud. Elle le prend et ne dit pas merci — elle le dit autrement, en prenant le gobelet, et il comprend.
 
 Ils remontent sans se le dire vers le haut du monument, dépassent les deux premiers bancs de pierre. Ils s'assoient sur le troisième, celui d'où on voit l'eau entre les chevaux. Elle est à sa gauche, comme toujours — il est gaucher, elle le sait depuis qu'elle sait marcher. Il pose son café à côté de lui. Il ne le boira pas.
 
@@ -40,7 +40,7 @@ Inès ne dit rien. Elle regarde le bassin. Un pigeon s'est approché, traîne, r
 
 Elle jette un deuxième morceau.
 
-Elle pose la brioche à moitié entamée sur le banc entre eux deux.
+Elle pose la brioche entamée sur le banc entre eux deux.
 
 — *Tu reviens quand ?*
 

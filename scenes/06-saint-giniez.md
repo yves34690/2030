@@ -30,7 +30,7 @@ Claire, dans le séjour, relève la tête. Elle a entendu. Elle n'a pas comment�
 
 Son téléphone, qui était silencieux, vibre. Elle regarde. C'est Inès — un message depuis la chambre, trois pièces plus loin. *tu as le livre de M. Reboul ?* Claire répond *rayon 3, en bas à gauche* et repose le téléphone. Pas *ma chérie*, pas d'émoji, pas de question. Inès ne répond pas. Deux minutes plus tard, j'entends la porte s'ouvrir, des pieds nus sur le parquet, une main dans les rayonnages du couloir, le bruit d'un livre qu'on tire.
 
-Inès ne retourne pas tout de suite dans sa chambre. Elle s'arrête dans le couloir, à deux pas de la porte du séjour. Elle ne passe pas la tête, elle reste là, debout, le livre ouvert dans les mains. Elle lit à voix pas trop forte, comme si elle se lisait à elle-même et comme si elle le lisait à Claire en même temps.
+Inès ne retourne pas tout de suite dans sa chambre. Elle s'arrête dans le couloir, à deux pas de la porte du séjour. Elle ne passe pas la tête, elle reste là, debout, le livre ouvert dans les mains. Elle lit à mi-voix, comme si elle se lisait à elle-même et comme si elle le lisait à Claire en même temps.
 
 — *Lui il dit que la tomate c'est le fond de la Provence. Que sans ça ça tient sur rien.*
 
@@ -48,7 +48,7 @@ Un temps.
 
 — *Pas la même quantité.*
 
-Claire rit sèchement, une fois, un rire qui ne dure pas. Elle ne relève toujours pas la tête. Elle reprend le stylo, fait semblant d'écrire une ligne qu'elle n'écrit pas — la pointe ne descend pas vraiment sur le papier, elle reste suspendue un quart de seconde.
+Claire rit sèchement, une fois, un rire qui ne dure pas. Elle ne relève toujours pas la tête. Elle reprend le stylo, fait semblant d'écrire une ligne qu'elle n'écrit pas — la pointe ne descend pas vraiment sur le papier, elle reste suspendue une demi-seconde.
 
 Inès, dans le couloir, regarde sa mère pendant cette demi-seconde où on croit qu'on ne nous regarde pas. Puis elle referme le livre contre sa hanche, le tient calé là, repart vers sa chambre, referme la porte doucement.
 

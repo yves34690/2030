@@ -88,7 +88,7 @@ Lucien hausse les épaules.
 
 Il s'arrête. Il ne veut pas faire la liste devant Dédé, peut-être, ou devant rien. Il boit.
 
-Antoine a entendu le prénom. Il n'y a pas d'explication immédiate dans sa tête — c'est juste un prénom qui se pose, qui ne ressort pas tout de suite. Farida. Il mâche, il avale. Il reprend la fourchette, pique un morceau de tomate, la remonte à la bouche. À mi-chemin, il arrête.
+Antoine a entendu le prénom. Il n'y a pas d'explication immédiate dans sa tête — c'est juste un prénom qui se pose, qui ne ressort pas tout de suite. Farida. Il mâche, il avale. Il reprend la fourchette, pique un morceau de tomate, la remonte à la bouche. À mi-chemin, il s'arrête.
 
 Je ne sais pas exactement ce qui remonte en lui à cet instant. Je vois qu'il s'arrête. La fourchette en l'air, la tomate dessus, la main gauche à côté de l'assiette qui s'immobilise. Il ne la repose pas, il ne l'avance pas.
 
@@ -96,7 +96,7 @@ Ce qui lui revient, je crois, c'est une photo. Une femme de face, trente-huit an
 
 Il repose la fourchette. Le morceau de tomate retombe dans l'assiette.
 
-Dédé repart, sur un vélo qu'un type a laissé attaché à un lampadaire depuis trois mois. Ange écoute d'une oreille. Lucien s'est retourné vers la vitre. Personne n'a vu Antoine s'arrêter.
+Dédé repart — un vélo qu'un type a laissé attaché à un lampadaire depuis trois mois. Ange écoute d'une oreille. Lucien s'est retourné vers la vitre. Personne n'a vu Antoine s'arrêter.
 
 Rose, si. Rose revient avec le plat de veau. Elle voit l'assiette de salade à peine entamée. Elle ne dit rien, elle pose le plat chaud à côté. Elle reste une seconde de trop derrière lui. Elle pose sa main sur son épaule une deuxième fois — pas en passant, en se posant. Puis elle repart.
 
@@ -144,6 +144,6 @@ Je remonte la rue derrière Antoine. Il marche plus vite qu'à l'aller.
 
 ---
 
-*Brouillon v3 — 2026-05-10. Première infusion 2030 dans la texture domestique : Dédé raconte la mésaventure de Bébert (vidéo fake d'infidélité, retournement main droite/gaucher) en s'embrouillant fidèlement (cousin/mari de la fille de la cousine, Cassis/Aix inversés puis perdus en "là-haut", "tu suis ?"). Chute brute "Il a rien dit" sans pirouette tweetable — sous-texte par silence. Ange chambre Dédé sur ce qu'il vient de faire — *"Y'a pas un algo qui arrive à mettre tes phrases dans l'ordre."* Le mot "algo" tenu sciemment : Ange a connu l'ancien monde, il nomme l'algorithme parce qu'il le rejette, ce n'est pas une référence neutre — détail qui pointera vers une enrichissement de sa fiche personnage. Battement avant le pivot Lucien : Dédé qui cherche un mot dans son verre, voix indistincte dehors qui reste sur le trottoir — Marseille parle à côté pendant que la gravité s'installe (lourd et léger en même temps, dire par les silences sans s'arrêter de parler). Antoine reste présent par écoute distraite — son contexte implicite contre la data explicite. Environ 1550 mots.*
+*Brouillon v3 — 2026-05-10. Première infusion 2030 dans la texture domestique : Dédé raconte la mésaventure de Bébert (vidéo fake d'infidélité, retournement main droite/gaucher) en s'embrouillant fidèlement (cousin/mari de la fille de la cousine, Cassis/Aix inversés puis perdus en "là-haut", "tu suis ?"). Chute brute "Il a rien dit" sans pirouette tweetable — sous-texte par silence. Ange chambre Dédé sur ce qu'il vient de faire — *"Y'a pas un algo qui arrive à mettre tes phrases dans l'ordre."* Le mot "algo" tenu sciemment : Ange a connu l'ancien monde, il nomme l'algorithme parce qu'il le rejette, ce n'est pas une référence neutre — détail qui pointera vers un enrichissement de sa fiche personnage. Battement avant le pivot Lucien : Dédé qui cherche un mot dans son verre, voix indistincte dehors qui reste sur le trottoir — Marseille parle à côté pendant que la gravité s'installe (lourd et léger en même temps, dire par les silences sans s'arrêter de parler). Antoine reste présent par écoute distraite — son contexte implicite contre la data explicite. Environ 1550 mots.*
 
 *Brouillon v2 — 2026-04-19. Environ 1350 mots.*
