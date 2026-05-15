@@ -49,7 +49,7 @@ La devanture de The Octave est sobre. Lettres peintes à la main sur la vitrine,
 
 — *I'm not. Je suis là pour deux jours.*
 
-Henry ne demande pas pourquoi.
+Henry ne demande pas pourquoi. C'est ce qu'Antoine est venu chercher — être connu sans devoir raconter. Henry sait qu'Antoine s'expliquera s'il veut, ou ne s'expliquera pas.
 
 — *Inès ?*
 

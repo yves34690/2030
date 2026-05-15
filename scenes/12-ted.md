@@ -25,7 +25,7 @@ Le clavier vibre douze secondes. C'est long pour Inès qui d'habitude tape court
 
 Mais à deux heures neuf, la branche `ines-ms/9-ans` apparaît sur le repo. Inès vient de la pousser. Un seul fichier modifié : `chapitres/inedits/9-ans.md`. Cinquante-trois lignes. Premier commit signé par Inès sur ce fichier-là — d'après l'historique, il existait depuis avril en branche locale, jamais publiée. Elle a écrit, gardé, corrigé, refusé de pousser. Cette nuit, elle a poussé.
 
-Eli ouvre le fichier sur son ordinateur. La fenêtre de son client GitHub passe au premier plan, je la vois par les métadonnées de session. Lila ouvre le fichier sur son téléphone, lecteur intégré du client mobile. Inès, elle, ne le rouvre pas — elle a fermé le sien après le push, je le vois à l'horodatage. Le client Matrix qu'elle a ouvert n'enregistre aucun mouvement pendant onze secondes. Pas une frappe.
+Eli ouvre le fichier sur son ordinateur. La fenêtre de son client GitHub passe au premier plan, je la vois par les métadonnées de session. Lila ouvre le fichier sur son téléphone, lecteur intégré du client mobile. Inès, elle, ne le rouvre pas — elle a fermé le sien après le push, je le vois à l'horodatage. Le client Matrix qu'elle a ouvert n'enregistre aucun mouvement pendant onze secondes. Pas une frappe. Le silence du clavier est aussi un silence du corps.
 
 ---
 
@@ -97,7 +97,7 @@ Inès ne répond pas. Le téléphone glisse de sa main vers deux heures trente, 
 
 Je reste avec le repo. Il est deux heures quarante-deux à Marseille, le canal Matrix est silencieux, le fichier `9-ans.md` est en place sur la branche `ines-ms/9-ans` qu'Eli n'a pas mergée. La branche existe, elle attendra.
 
-Ce qu'ils font là, sur ce repo — j'ai mis du temps à le voir. Les adultes leur ont parlé. À table, en buvant. Des années qu'ils n'ont pas connues. Quand on partait sans téléphone, quand un concert ne se filmait pas, quand un ami à qui on ne pouvait plus parler restait quand même un ami. Ils ont écouté. Ils savent que c'est foutu, ce monde-là, et qu'aucune nostalgie ne le ramène — ils ne sont pas idiots. Mais quelque chose leur est resté collé. L'idée qu'on pouvait dire vrai sans devoir le prouver. Et ils s'y sont mis avec ce qu'ils ont sous la main. Des fichiers texte. Des branches. Un piano de huit secondes. Un mot juste. Une ligne en haut d'un fichier pour quelqu'un qui ne lira jamais.
+Ce qu'ils font là, sur ce repo — j'ai mis du temps à le voir. Les adultes leur ont parlé. À table, en buvant. Des années qu'ils n'ont pas connues. Quand on partait sans téléphone, quand un concert ne se filmait pas, quand un ami à qui on ne pouvait plus parler restait quand même un ami. Ils ont écouté. Ils savent que c'est foutu, ce monde-là, et qu'aucune nostalgie ne le ramène — ils ne sont pas idiots. Mais quelque chose leur est resté collé. L'idée qu'on pouvait dire vrai sans devoir le prouver. Et ils s'y sont mis avec ce qu'ils ont sous la main. Des fichiers texte. Des branches. Un piano de huit secondes. Un mot qui ne dit pas beau, qui dit juste. Une ligne en haut d'un fichier pour quelqu'un qui ne lira jamais.
 
 Ce fichier est plus exact que ce que j'ai vu cette nuit. Pas plus beau, pas plus important. Plus exact.
 
