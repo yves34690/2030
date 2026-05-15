@@ -10,7 +10,7 @@ La pierre rosit. Les trois blocs du monument — les taureaux, les chevaux, la f
 
 ---
 
-Antoine est arrivé à sept heures et demie. Il a garé sa voiture rue Élémir-Bourges, il a remonté le boulevard à pied. Il porte sa chemise de lin bleu pâle et le manteau de mi-saison sur le bras, bien qu'il n'en ait pas besoin. À la main droite, deux gobelets en carton du kiosque de l'angle : un crème pour lui, un chocolat chaud pour elle. Il sait qu'elle ne boit pas de café. Il le sait depuis qu'elle a douze ans et qu'elle a essayé une fois, par imitation, avec un petit dégoût courageux qu'il n'oubliera pas.
+Antoine est arrivé à sept heures et demie. Il a garé sa voiture rue Élémir-Bourges, il a remonté le boulevard à pied. Il porte sa chemise de lin bleu pâle et le manteau de mi-saison sur le bras, bien qu'il n'en ait pas besoin. À la main droite, deux gobelets en carton du kiosque de l'angle : un crème pour lui, un chocolat chaud pour elle. Il sait qu'elle ne boit pas de café. Il le sait depuis qu'elle a douze ans et qu'elle a essayé une fois, par imitation, avec un petit dégoût courageux.
 
 Il a monté l'escalier jusqu'à mi-hauteur. Il s'est arrêté au premier palier. Il regarde vers le boulevard, il surveille. Il a préféré qu'elle le voie de loin plutôt qu'à la sortie d'un taxi, qu'elle marche jusqu'à lui — c'est ce qu'il savait faire avec elle depuis toujours.
 
@@ -72,7 +72,7 @@ Elle se lève.
 
 ---
 
-Ils redescendent l'escalier par le côté, celui qui donne sur les jardins. Inès devant, lui derrière. C'est la règle avec elle depuis qu'elle a dix ans — elle n'aime pas qu'on la tienne par la main dans la rue, elle n'aime pas qu'on marche à côté d'elle en lui parlant, elle aime savoir qu'il est derrière, qu'il voit son dos, qu'il est là à la bonne distance. Lui aussi.
+Ils redescendent l'escalier par le côté, celui qui donne sur les jardins. Inès devant, lui derrière. C'est la règle avec elle depuis qu'elle a dix ans — elle n'aime pas qu'on la tienne par la main dans la rue, elle n'aime pas qu'on marche à côté d'elle en lui parlant, elle aime savoir qu'il est derrière, qu'il voit son dos, qu'il est là à la bonne distance.
 
 Au bas de l'escalier, il lui propose de la déposer au collège. Elle dit non, elle prendra le métro, elle a le temps. Il n'insiste pas. Elle lui tend le gobelet de chocolat chaud à moitié bu, qu'elle ne veut pas emporter en classe. Il le prend.
 

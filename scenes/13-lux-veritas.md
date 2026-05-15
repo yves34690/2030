@@ -15,7 +15,7 @@ Elle s'assoit. Elle réveille la machine.
 
 ---
 
-Sur le mur, encadrée, la lettre du type acquitté en 2023. Je ne l'ai jamais lue. Elle est en anglais, écrite à la main, papier jauni par sept ans de soleil de matin sur ce mur-là. Nora la regarde pendant que la session se charge. Elle la regarde un instant trop long pour qu'on dise qu'elle ne la regarde pas. Puis elle revient à l'écran.
+Sur le mur, encadrée, la lettre du type acquitté en 2023. Je ne l'ai jamais lue. Elle est en anglais, écrite à la main, papier jauni par sept ans de soleil de matin sur ce mur-là. Nora la regarde pendant que la session se charge. Elle la regarde un instant de trop. Puis elle revient à l'écran.
 
 FORVEX 2.3 ouvre. Elle a préparé hier soir trois fichiers dans le dossier `azoulay-2026/recheck/`. Elle ouvre le premier, le sélectionne, le passe. La séquence Azoulay de 23h08 à 23h11. Elle lance l'analyse. La barre de progression descend dans le coin droit de l'écran — onze minutes annoncées. Elle se lève. Elle reprend la moitié de pomme dans l'évier. Elle revient. Elle tape dans un fichier de notes ouvert à côté — pas en phrases, en points : *2026, hall jardin, montant gauche, parallaxe pixel ~7-9, ré-test corpus contrôle*.
 
@@ -69,7 +69,7 @@ Antoine entre. Il vient à côté d'elle, il regarde l'écran de droite. Il voit
 
 — *Robert Aldrich. Bronx, octobre 2027. Acquitté en mars 2029 du meurtre de sa belle-sœur. Vidéo d'alibi — laverie, vingt-deux heures quarante-sept, l'heure du crime. C'est moi qui l'ai certifiée authentique en 2028.*
 
-Antoine a compris immédiatement. C'est un type qui comprend vite quand il s'agit de signatures.
+Antoine a compris immédiatement.
 
 — *Et tu en as d'autres comme ça ?*
 
@@ -87,7 +87,7 @@ Au mur, la lettre encadrée du type de 2023. Antoine la voit. Il l'a déjà vue 
 
 Nora se rassoit. Pas pour se calmer — pour faire ce qu'elle fait. Elle ouvre une troisième fenêtre. Elle commence à interroger sa base d'archives — toutes les expertises qu'elle a signées entre 2026 et 2029. Trente-quatre dossiers. Elle filtre par typologie de vidéo — surveillance fixe, plan large, horodatage interne. Vingt-deux dossiers correspondent. Elle prépare un script qui passe les vingt-deux à FORVEX 2.3 en lot. Le script va prendre la matinée à tourner.
 
-Antoine la regarde faire. Il sait qu'il n'a rien à dire pour l'instant. Il s'assoit dans le fauteuil bas près de la porte — le fauteuil où Daniel s'est sans doute affaissé hier soir en rentrant tard. Antoine ne touche pas le fauteuil avec sa main pour le tester comme on teste un fauteuil qu'on ne connaît pas — il se laisse tomber dedans comme si c'était le sien depuis des années.
+Antoine la regarde faire. Il sait qu'il n'a rien à dire pour l'instant. Il s'assoit dans le fauteuil bas près de la porte — le fauteuil où Daniel s'est sans doute affaissé hier soir en rentrant tard. Il se laisse tomber dedans comme si c'était le sien depuis des années.
 
 Le script tourne. Le premier dossier passe à six heures cinquante-deux. Pas de signature. Le deuxième à sept heures trois. Pas de signature. Le troisième à sept heures quatorze. Pas de signature non plus. Nora regarde sans rien dire. Antoine regarde aussi. La barre de progression du quatrième charge. Dehors, le soleil monte sur Lower Manhattan, on en voit le coin par la fenêtre du bureau — la pointe du One World Trade Center prend le rose pâle qu'elle prend en juin quand le ciel est dégagé.
 

@@ -24,7 +24,7 @@ Il monte. Le compteur d'eau de la brownstone est connecté à l'application qu'e
 
 — *Tea, please. Black.*
 
-Marsha hoche la tête, sans le rappeler *hon* parce qu'elle n'a pas eu le temps d'enregistrer son visage. Elle s'éloigne. Nora ne sourit pas. Elle n'a pas besoin de sourire — Antoine s'est entendu lui-même et il sait.
+Marsha hoche la tête, sans le rappeler *hon* parce qu'elle n'a pas eu le temps d'enregistrer son visage. Elle s'éloigne. Nora ne sourit pas. Elle n'a pas besoin de sourire.
 
 Ils s'assoient en vis-à-vis. Antoine pose les mains sur la table, paumes vers le haut, qu'il ramène ensuite contre les cuisses parce qu'il s'est trompé de position. Il a chaud, il a froid, il ne sait pas. Il défait le bouton du col de sa chemise. Il regarde Nora.
 
@@ -62,7 +62,7 @@ Marsha repasse, remplit le café de Nora sans demander, regarde le thé d'Antoin
 
 À vingt heures quarante-deux, Daniel pousse la porte du diner. Il les voit à la banquette de la vitre. Il s'arrête une seconde de trop avant de venir. Je ne sais pas s'il les a reconnus tout de suite — Antoine a maigri depuis cinq ans, le diner est à contre-jour. Puis ça revient. Il sourit, il vient en trois enjambées, il enserre Antoine debout. Il rit fort. Antoine se laisse faire. Daniel le tient par les épaules à bout de bras, il le regarde une seconde, il s'assoit à côté de Nora.
 
-Il commande un café. Il pose son téléphone face en l'air sur la table. Il commande aussi un cheesecake, pour rire, qu'il fera glisser vers Antoine et qu'Antoine ne mangera pas. Il a écourté son dîner d'investisseurs à Manhattan pour les rejoindre — un fonds émirati qui lui a coûté la soirée. Il est venu en métro, il le précise deux fois en s'asseyant. Il prend le métro depuis deux ans, il en parle toujours. Il voit le thé d'Antoine.
+Il commande un café. Il pose son téléphone face en l'air sur la table. Il commande aussi un cheesecake, pour rire, qu'il fera glisser vers Antoine et qu'Antoine ne mangera pas. Il a écourté son dîner d'investisseurs à Manhattan pour les rejoindre — un fonds émirati qui lui a coûté la soirée. Il est venu en métro, il le précise deux fois en s'asseyant. Il voit le thé d'Antoine.
 
 — *T'as fini par leur céder ?*
 

@@ -70,7 +70,7 @@ Il revient. Il rallume l'écran. Il ne rouvre pas le PDF cette fois. Il ouvre un
 
 Il reste devant l'écran, les doigts sur le clavier, sans rien taper pendant presque deux minutes. Je ne sais pas ce qu'il pense. Je suppose — et je signale que je suppose — qu'il pense à Inès. Qu'elle est chez Claire à Saint-Giniez, qu'elle dort, qu'elle se lèvera dans deux heures, qu'elle ira au collège. Que le week-end tombe dans deux jours, qu'elle devait venir ici samedi après-midi. Qu'il ne sera peut-être pas là.
 
-Il ferme l'onglet. Il n'a pas réservé. Il n'a pas non plus renoncé. Il a juste fermé, pour reprendre plus tard — pour reprendre quand il aura trouvé comment parler à Inès avant de partir, parce qu'il ne partira pas sans lui parler, je le sais à ce détail-là.
+Il ferme l'onglet. Il n'a pas réservé. Il n'a pas non plus renoncé. Il a juste fermé, pour reprendre plus tard — pour reprendre quand il aura trouvé comment parler à Inès avant de partir, parce qu'il ne partira pas sans lui parler.
 
 Il ouvre la messagerie de Nora, sur sa propre boîte. Il tape.
 

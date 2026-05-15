@@ -14,13 +14,13 @@ L'appartement a des livres dans toutes les pièces. Pas un décor, un sédiment.
 
 La porte s'ouvre. Inès sort. Je la vois pour la première fois en chair — jusqu'ici je ne l'avais que par le cadre numérique d'Endoume, neuf ans, onze, treize. À quatorze elle est plus grande que je ne l'imaginais, elle a les épaules d'Antoine, droites sans insister. Les cheveux longs qu'elle tient attachés n'importe comment. Un tee-shirt trop grand, un pantalon en toile. Pas de téléphone à la main. C'est la première chose que je note — pas de téléphone.
 
-Elle dit *merci pour le bleu* à sa mère, et elle va le chercher dans le sac, elle le pose sur une assiette, elle coupe un morceau debout. Claire la regarde faire sans rien dire. Claire non plus n'a pas de téléphone à la main. Je note ça aussi. Je ne sais pas ce que ça veut dire, peut-être rien, peut-être c'est juste leur façon d'être en fin de journée — dans le papier et dans la cuisine, pas dans les écrans.
+Elle dit *merci pour le bleu* à sa mère, et elle va le chercher dans le sac, elle le pose sur une assiette, elle coupe un morceau debout. Claire la regarde faire sans rien dire. Claire non plus n'a pas de téléphone à la main. Je note ça aussi. Peut-être rien, peut-être c'est juste leur façon d'être en fin de journée — dans le papier et dans la cuisine, pas dans les écrans.
 
 Inès repart vers sa chambre avec son bout de bleu et une tranche de pain. Elle referme la porte.
 
-Claire sort une bouteille du frigo — déjà ouverte — et se sert un verre de blanc. Elle s'assoit à la table du séjour. Il y a un cahier ouvert dessus. Un vrai cahier, papier quadrillé, pas très différent de celui qu'Antoine a ouvert ce matin à Endoume. Je ne suis pas venue chercher ça, je le vois quand même. Elle écrit dessus à la main, à droite, je regarde la courbe de ses lettres sans savoir ce qu'elle écrit — le cahier me tourne le dos, c'est juste.
+Claire sort une bouteille du frigo — déjà ouverte — et se sert un verre de blanc. Elle s'assoit à la table du séjour. Il y a un cahier ouvert dessus. Un vrai cahier, papier quadrillé, pas très différent de celui qu'Antoine a ouvert ce matin à Endoume. Je ne suis pas venue chercher ça, je le vois quand même. Elle écrit dessus à la main, à droite, je regarde la courbe de ses lettres. Le cahier me tourne le dos.
 
-Elle écrit lentement. Elle s'arrête. Elle regarde par la fenêtre. Saint-Giniez à cette heure, ce n'est pas Endoume. La rue est plus large, plus silencieuse — pas de mer en fond, pas de goélands, juste le grincement intermittent d'un tramway loin et le passage d'un drone de livraison qui tangue au-dessus des fils électriques suspendus. Les fils, ici, sont restés — c'est un quartier qui n'a pas tout enterré.
+Elle écrit lentement. Elle s'arrête. Elle regarde par la fenêtre. Saint-Giniez à cette heure, ce n'est pas Endoume. La rue est plus large, plus silencieuse — pas de mer en fond, pas de goélands, juste le grincement intermittent d'un tramway loin et le passage d'un drone de livraison qui tangue au-dessus des fils électriques suspendus. Les fils, ici, sont restés.
 
 Sur le buffet, une photo. Un cadre, pas numérique. Papier. Trois personnes — Claire, Antoine, Inès qui a peut-être huit ans. C'est en Sicile, on le voit au soleil. C'est la seule image d'Antoine que je trouve dans l'appartement, et elle est ancienne. Claire a gardé. Je ne la dérange pas.
 
@@ -50,17 +50,17 @@ Un temps.
 
 Claire rit sèchement, une fois, un rire qui ne dure pas. Elle ne relève toujours pas la tête. Elle reprend le stylo, fait semblant d'écrire une ligne qu'elle n'écrit pas — la pointe ne descend pas vraiment sur le papier, elle reste suspendue une demi-seconde.
 
-Inès, dans le couloir, regarde sa mère pendant cette demi-seconde où on croit qu'on ne nous regarde pas. Puis elle referme le livre contre sa hanche, le tient calé là, repart vers sa chambre, referme la porte doucement.
+Inès, dans le couloir, regarde sa mère pendant cette demi-seconde où Claire ne se sait pas regardée. Puis elle referme le livre contre sa hanche, le tient calé là, repart vers sa chambre, referme la porte doucement.
 
 Le piano, dans la chambre, reprend à une mesure où on ne l'avait pas laissé. Inès a dû enlever l'écouteur et le remettre. La Goldberg continue.
 
-Claire, dans le séjour, ne sourit pas tout de suite. Elle garde le stylo en l'air un moment, pointe vers la page, sans rien écrire. Puis elle sourit. Je le vois parce qu'elle a bougé vers la fenêtre, mon angle a changé. Elle sourit à rien, ou à sa fille.
+Claire, dans le séjour, ne sourit pas tout de suite. Elle garde le stylo en l'air un moment, pointe vers la page, sans rien écrire. Puis elle sourit. Elle sourit à rien, ou à sa fille.
 
 Je reste avec elle encore une minute. La lumière bascule — à cette heure de juin, il reste encore du jour, mais quelque chose s'éteint dans la pièce, la couleur se retire.
 
-Quelque part dans la ville, Antoine marche. Je ne sais pas où il est. Peut-être qu'il va venir, peut-être pas. Je m'en vais — je ne peux pas voir ce que Claire écrit, je ne serai pas très utile à cette table.
+Quelque part dans la ville, Antoine marche. Je ne sais pas où il est. Peut-être qu'il va venir, peut-être pas. Je m'en vais — je ne serai pas très utile à cette table.
 
-Saint-Giniez sent la pierre chauffée qui respire et un léger parfum de jasmin qui vient d'un jardin intérieur que je ne peux pas identifier. Dans la chambre d'Inès, la Goldberg tourne encore.
+Saint-Giniez sent la pierre chauffée qui respire et un léger parfum de jasmin qui vient d'un jardin intérieur. Dans la chambre d'Inès, la Goldberg tourne encore.
 
 ---
 

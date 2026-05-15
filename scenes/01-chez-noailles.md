@@ -11,7 +11,7 @@ Il descend la rue Saint-Ferréol. Quarante-trois ans. Antoine. Je ne l'ai pas cr
 
 Il marche comme quelqu'un qui a décidé, il y a longtemps, que la rapidité n'impressionnait personne. Un pas posé, légèrement en dedans. Il est grand sans l'être vraiment, c'est-à-dire qu'il l'était, et qu'il a appris à se tenir un peu moins droit pour ne pas gêner. Chemise en lin bleu pâle, les manches roulées au coude, un pli humide au creux du bras où la sueur a séché. Il transpire, mais pas trop. Il n'a pas couru.
 
-Une publicité tourne sur un panneau à hauteur d'œil, trois jeunes femmes qui rient à quatre secondes d'intervalle, il passe sans la voir, ou il la voit sans s'y arrêter. Tout le monde a fini par apprendre à ne plus s'arrêter.
+Une publicité tourne sur un panneau à hauteur d'œil, trois jeunes femmes qui rient à quatre secondes d'intervalle, il passe sans la voir, ou il la voit sans s'y arrêter.
 
 Il entre chez Noailles. C'est le nom que j'ai choisi, il y a plusieurs cafés dans la rue, tant pis. Le garçon ne lève pas les yeux. Antoine s'assoit à la deuxième table à gauche en entrant, contre la vitre. Il pose son sac — un sac usé, cuir brun, la bandoulière trop longue dont il ne s'est jamais occupé — et il le fait glisser au sol avec le pied, sans regarder, d'un geste qu'il a dû répéter cinq mille fois.
 
@@ -25,9 +25,9 @@ Antoine commande d'un signe. Le garçon ne répond pas. C'est un accord ancien e
 
 Le café arrive. Il y a une petite cuillère qui dépasse du verre d'eau. L'eau, c'est pour le café, pas pour boire. Ça me vient automatiquement. Ça doit venir d'un livre. Il paie tout de suite, sort un billet plié de la poche arrière, le laisse sous la soucoupe. Il ne compte pas la monnaie.
 
-Il regarde dehors. Un moment, juste, il regarde dehors. Un pigeon se pose sur une borne et repart aussitôt, il ne le suit pas des yeux. Ce n'est pas lui qui est distrait — c'est son regard qui s'est absenté sans lui demander.
+Il regarde dehors. Un moment, juste, il regarde dehors. Un pigeon se pose sur une borne et repart aussitôt, il ne le suit pas des yeux.
 
-Son téléphone vibre. Il le regarde vraiment, cette fois. Il sait déjà, ou il croit savoir. Il y a longtemps qu'il ne fait plus la différence.
+Son téléphone vibre. Il le regarde vraiment, cette fois. Il sait déjà, ou il croit savoir.
 
 Il lit le message deux fois. Je crois. Ou alors il le relit parce qu'il ne comprend pas, ou parce qu'il comprend trop bien. Son visage ne change pas beaucoup. Sa mâchoire oui. Une contraction fine, une fois, comme si quelqu'un l'avait pincée à l'intérieur. Il pose le téléphone à plat sur la table, écran contre la nappe, comme on couvre quelque chose qu'on ne veut plus voir sans avoir le courage de l'éteindre.
 

@@ -28,7 +28,7 @@ Rose est dans le pas de la porte de la cuisine, un torchon à l'épaule, elle s'
 
 — *Va pour le veau.*
 
-Elle retourne dans la cuisine. Ange lui pose un verre de rouge sur la table sans demander — c'est un vin corse qu'il aime et qu'il sert à Antoine, et Antoine a cessé de commenter il y a des années.
+Elle retourne dans la cuisine. Ange lui pose un verre de rouge sur la table sans demander — un vin corse.
 
 — *Ça va.*
 
@@ -92,7 +92,7 @@ Antoine a entendu le prénom. Il n'y a pas d'explication immédiate dans sa têt
 
 Je ne sais pas exactement ce qui remonte en lui à cet instant. Je vois qu'il s'arrête. La fourchette en l'air, la tomate dessus, la main gauche à côté de l'assiette qui s'immobilise. Il ne la repose pas, il ne l'avance pas.
 
-Ce qui lui revient, je crois, c'est une photo. Une femme de face, trente-huit ans, regard droit, une mèche de cheveux sur la joue. Il se souvient de la mèche. Il avait regardé la photo plus longtemps qu'il ne faisait d'habitude. Il n'avait pas su pourquoi.
+Ce qui lui revient, je crois, c'est une photo. Une femme de face, trente-huit ans, regard droit, une mèche de cheveux sur la joue. Il se souvient de la mèche. Il avait regardé la photo plus longtemps qu'il ne faisait d'habitude.
 
 Il repose la fourchette. Le morceau de tomate retombe dans l'assiette.
 

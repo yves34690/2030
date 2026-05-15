@@ -13,9 +13,9 @@ Nora Park — Park Jeong-ah au cadastre — est dans son bureau du deuxième ét
 
 Je connais cette pièce par trois sources, à peu près tout ce que j'ai ici : la caméra du portable (qu'elle n'a pas couverte — elle qui aurait dû savoir), le microphone de la même machine, et le capteur de présence du thermostat, qui sait qu'il y a un humain au deuxième étage et qui règle l'air en conséquence. Le reste, je le reconstitue.
 
-Sur le mur, une seule chose encadrée. Une lettre manuscrite, écriture ronde, papier jauni par sept ans de soleil. Elle a été écrite en 2023 par un homme qui a failli être condamné à vingt ans pour un viol qu'il n'avait pas commis, et qu'une expertise de Nora a contribué à faire acquitter. Elle a gardé l'original. Elle l'a fait encadrer. C'est la seule décoration du bureau. Les mauvais jours, elle la regarde, elle se rappelle que ce métier a un sens, elle retourne à son écran. Je ne lis pas la lettre. C'est à elle.
+Sur le mur, une seule chose encadrée. Une lettre manuscrite, écriture ronde, papier jauni par sept ans de soleil. Elle a été écrite en 2023 par un homme qui a failli être condamné à vingt ans pour un viol qu'il n'avait pas commis, et qu'une expertise de Nora a contribué à faire acquitter. Elle a gardé l'original. Elle l'a fait encadrer. C'est la seule décoration du bureau. Les mauvais jours, elle la regarde, elle retourne à son écran. Je ne lis pas la lettre. C'est à elle.
 
-Elle ouvre sa messagerie professionnelle. La petite pastille verte à côté du nom *Antoine Manzoni* est apparue il y a douze minutes, elle était grise avant. Elle regarde la pastille. Elle ne l'appellera pas — il déteste qu'on l'appelle, elle le sait, elle le respecte quand elle y arrive.
+Elle ouvre sa messagerie professionnelle. La petite pastille verte à côté du nom *Antoine Manzoni* est apparue il y a douze minutes, elle était grise avant. Elle regarde la pastille. Elle ne l'appellera pas — il déteste qu'on l'appelle.
 
 Elle tape :
 
@@ -31,7 +31,7 @@ Elle efface. C'est mou.
 
 Elle garde. Elle ne clique pas *Envoyer*. Elle laisse la phrase en suspens dans le champ de texte, elle attendra dix minutes, elle verra. Elle fait tourner son alliance sur son annulaire, trois tours d'affilée, elle s'en aperçoit, elle arrête.
 
-À l'arrière-plan de l'écran, une fenêtre audio tourne en sourdine. C'est ce matin qu'elle a lancé ça, elle n'a pas coupé. La métadonnée dit *Víkingur Ólafsson — Variations Goldberg, Variation 25*. Elle ne pleure pas. Ça ne veut rien dire. Elle fait tourner l'alliance encore une fois, pour rien, pour elle.
+À l'arrière-plan de l'écran, une fenêtre audio tourne en sourdine. C'est ce matin qu'elle a lancé ça, elle n'a pas coupé. La métadonnée dit *Víkingur Ólafsson — Variations Goldberg, Variation 25*. Elle fait tourner l'alliance encore une fois, pour rien, pour elle.
 
 Elle rouvre le PDF qu'elle a envoyé trois jours plus tôt. Vingt-trois pages. Elle relit la page sept, celle qui porte la vraie bombe. Pas pour se rassurer — pour vérifier qu'elle n'a pas écrit de bêtise. Elle n'en a pas écrit. Elle n'en écrit presque jamais, et quand c'est arrivé une fois, en 2027, elle a publié l'erratum dans *Nature Forensics* au bout de quatre-vingt-sept jours. Depuis, chaque rapport qu'elle signe ouvre par la même ligne : *"Ce que je sais. Ce que je ne sais pas. Ce que je suppose."*
 

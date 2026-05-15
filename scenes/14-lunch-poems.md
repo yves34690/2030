@@ -49,7 +49,7 @@ La devanture de The Octave est sobre. Lettres peintes à la main sur la vitrine,
 
 — *I'm not. Je suis là pour deux jours.*
 
-Henry ne demande pas pourquoi. C'est ce qu'Antoine est venu chercher — être connu sans devoir raconter. Henry sait qu'Antoine s'expliquera s'il veut, ou ne s'expliquera pas.
+Henry ne demande pas pourquoi.
 
 — *Inès ?*
 
@@ -93,7 +93,7 @@ Henry prend le livre, le tient une seconde dans la paume comme on soupèse. Il r
 
 — *Il les écrivait à la pause déjeuner.*
 
-Antoine regarde la couverture aussi. Il sait. Il avait oublié qu'il savait. Quelque chose se déplace dans sa poitrine — une demi-seconde, pas plus. Comme la fourchette en l'air chez Ange l'autre soir.
+Antoine regarde la couverture aussi. Il sait. Il avait oublié qu'il savait. Une demi-seconde, pas plus. Comme la fourchette en l'air chez Ange l'autre soir.
 
 Henry ne lève toujours pas les yeux. Il rend le livre, fait l'addition à la main sur le carnet quadrillé. Douze dollars cinquante.
 

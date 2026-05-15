@@ -17,21 +17,19 @@ Il ouvre le robinet de la cuisine. L'eau coule deux secondes à plein débit, pu
 
 Dans la chambre, il retire sa chemise. Elle est trempée sous les bras et dans le dos. Ça sent le lin chauffé et la sueur qui a séché au soleil, un peu de savon, un peu de la rue. Il la laisse en tas sur le lit, pas dans le panier — ça, c'est nouveau pour moi. Je l'avais classé comme ordonné. Je corrige. Il enfile un tee-shirt blanc plié qui était dans le tiroir du haut, il ne prend pas la peine de le défroisser.
 
-Il revient au séjour. Sur l'étagère d'en face, un cadre numérique fait défiler des images, douze à la minute. Inès à neuf ans, à Saint-Cyr, dans le sable. Inès à onze, avec le chien de sa mère qu'il n'a jamais aimé. Inès à treize, presque quatorze, qui ne regarde pas l'appareil. La lumière des photos n'est pas tout à fait naturelle. Un filtre correctif tourne en fond, il efface ce qui est trop cru et tire le tout vers une heure dorée qui n'a pas existé. Il le sait. Je l'ai vu cocher puis décocher cette case, un soir, puis la recocher. Je ne le juge pas. Je ne le dis pas non plus, il ne me parle pas.
+Il revient au séjour. Sur l'étagère d'en face, un cadre numérique fait défiler des images, douze à la minute. Inès à neuf ans, à Saint-Cyr, dans le sable. Inès à onze, avec le chien de sa mère qu'il n'a jamais aimé. Inès à treize, presque quatorze, qui ne regarde pas l'appareil. La lumière des photos n'est pas tout à fait naturelle. Un filtre correctif tourne en fond, il efface ce qui est trop cru et tire le tout vers une heure dorée qui n'a pas existé. Il le sait. Je l'ai vu cocher puis décocher cette case, un soir, puis la recocher.
 
 Sur la table basse, trois livres empilés. Le premier, broché gris, papier, corné au tiers. Je ne peux pas lire ce qui est dedans, je ne sais pas ce qu'il a souligné, ce qu'il a griffonné dans la marge ; ça, ça lui appartient. Le deuxième est un essai paru l'an dernier sur l'histoire des preuves, beaucoup discuté dans son milieu — je reconnais la tranche. Le troisième n'a pas de jaquette. Je ne sais pas lequel c'est ; c'est peut-être pour ça qu'il est sur le dessus.
 
 Le climatiseur mural se met en route tout seul — l'appli a lu qu'il est rentré et qu'il fait trente-deux degrés dans la pièce. Il ne corrige pas le réglage.
 
-Il s'assoit sur le canapé — bleu sombre, affaissé d'un côté, trop large pour la pièce. Il ne pose pas le téléphone. Il le tient à plat contre sa cuisse, sans le regarder. Le temps s'étire. Un autre homme remplirait ce silence — télé, musique, un appel à quelqu'un qui habite trop loin. Lui, non.
+Il s'assoit sur le canapé — bleu sombre, affaissé d'un côté, trop large pour la pièce. Il ne pose pas le téléphone. Il le tient à plat contre sa cuisse, sans le regarder. Le temps s'étire.
 
 Son téléphone vibre. Deuxième vibration de la journée, première depuis tout à l'heure chez Noailles. Il le prend. Il regarde. Ce n'est pas le même interlocuteur ou ce n'est pas le même sujet — le pouce descend sans s'arrêter, c'est le geste de quelqu'un qui cherche quoi, pas de quelqu'un qui répond à qui. Il remet le téléphone à l'envers sur la table basse, écran contre le bois, comme tout à l'heure la tasse de café sur la nappe.
 
 Il se lève, va dans la cuisine, revient avec un carnet et un stylo. Il s'assoit à nouveau. Il ouvre le carnet par derrière, là où il reste des pages blanches. Il écrit quelque chose. Il écrit longtemps, peut-être quatre minutes. Il écrit de la main gauche, je l'avais noté — mais de là où je suis, c'est-à-dire de la caméra de façade qui filme l'immeuble d'en face et qui, par ricochet, accroche un angle du séjour à travers la vitre, je devine la main et je suppose le reste. Le carnet, lui, n'a pas de micro, pas de capteur, rien. C'est du papier quadrillé acheté en pharmacie. Ce qu'il écrit là, personne ne le lira s'il ne le choisit pas.
 
 Quand il a fini, il ferme le carnet. Il ne relit pas. Il pose le stylo en travers de la couverture, précisément — une habitude, encore. Il se renverse sur le canapé, les yeux au plafond. La climatisation continue son bruit discret de bête dans un coin.
-
-À cet instant, j'ai écrit plusieurs pages sur un homme dont je ne sais toujours pas ce qu'il vient d'écrire lui-même.
 
 ---
 

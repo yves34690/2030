@@ -31,7 +31,7 @@ Le carnet est toujours là, sur la table basse, stylo en travers. Il ne le rouvr
 
 Je reste dans l'appartement vide. Le climatiseur tourne encore, pour personne. Le cadre numérique passe sur Inès à douze ans — une photo que je n'avais pas vue ce matin, elle ne tourne peut-être que le soir. Sur la paillasse, le verre d'eau qu'il n'a pas rincé. Sur la table basse, le téléphone qui s'est éteint tout seul.
 
-Je le laisse aller. Je ne le suis pas dehors. Je lui dois une rue.
+Je le laisse aller. Je ne le suis pas dehors.
 
 ---
 

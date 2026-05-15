@@ -10,7 +10,7 @@ Je laisse Antoine rentrer chez lui, je laisse Lucien finir son pastis Chez Ange.
 
 Je cherche Inès. Je la trouve sur les marches, en retrait, elle attend quelqu'un. Elle a le sac à dos sur une épaule, le poids à droite — il y a deux livres en plus des cahiers, je le vois à la tension de la bretelle. Elle regarde vers la porte. Elle ne bouge pas.
 
-Lila sort trois secondes plus tard. Elle filme. Elle filme la grille qui vibre, elle filme le sol, elle filme son propre pied qui avance — c'est sa façon de sortir d'un bâtiment, elle l'a toujours eue, elle ne s'en rend pas compte. Elle aperçoit Inès, lève le téléphone vers elle, Inès couvre l'objectif avec la paume — un geste posé, sans irritation, une habitude entre elles.
+Lila sort trois secondes plus tard. Elle filme. Elle filme la grille qui vibre, elle filme le sol, elle filme son propre pied qui avance. Elle aperçoit Inès, lève le téléphone vers elle, Inès couvre l'objectif avec la paume — un geste posé, sans irritation, une habitude entre elles.
 
 — *Bah quoi.*
 
@@ -152,7 +152,7 @@ Lila descend dans la station. Inès reste un moment à l'angle, regarde la rue q
 
 Elle part. Je la suis jusqu'à Saint-Giniez sans raconter la marche. Je n'ai rien à dire de ces vingt minutes, sinon qu'elle marche comme son père — un peu en dedans, sans se presser. À Saint-Giniez, Claire n'est pas encore rentrée. L'appartement est vide. Inès ouvre la porte avec sa propre clé. Elle pose le sac dans l'entrée. Elle va dans sa chambre.
 
-Je ne l'y suis pas. Je sais qu'elle va ouvrir le tiroir, prendre le carnet, écrire quelque chose. Je sais que je ne le verrai pas.
+Je ne l'y suis pas. Elle va ouvrir le tiroir, prendre le carnet, écrire quelque chose. Je ne le verrai pas.
 
 ---
 
