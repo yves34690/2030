@@ -7,7 +7,7 @@
 
 Je le retrouve à Madison Square à midi vingt. Il est en avance — la marche depuis Avenue A lui a pris trente-cinq minutes au lieu des quarante prévues. Il s'est assis sur le banc en bois en bordure de la pelouse, à côté d'un type qui mange une salade dans un bol en carton recyclé. Antoine ne mange pas. Il a la main posée sur la poche de poitrine où il a glissé O'Hara.
 
-À midi vingt-trois, le téléphone d'Antoine vibre. *Je sors. Eisenberg's si tu veux bien.* Antoine répond *je suis devant Madison*. Daniel répond *deux minutes*. Daniel arrive en trois — il traverse Broadway sans regarder, comme il l'a toujours fait. Chemise blanche, manches roulées au coude, lunettes sur le front. Il sourit large en voyant Antoine. Il rit avant de parler, comme il rit toujours, le rire qui détend la pièce avant qu'il n'arrive.
+À midi vingt-trois, le téléphone d'Antoine vibre. *Je sors. Eisenberg's si tu veux bien.* Antoine répond *je suis devant Madison*. Daniel répond *deux minutes*. Daniel arrive en trois minutes — il traverse Broadway sans regarder, comme il l'a toujours fait. Chemise blanche, manches roulées au coude, lunettes sur le front. Il sourit large en voyant Antoine. Il rit avant de parler, comme il rit toujours, le rire qui détend la pièce avant qu'il n'arrive.
 
 — *Manzoni. Tu es monté à pied depuis le centre ?*
 
@@ -21,7 +21,7 @@ Ils remontent la Cinquième en parlant, Daniel devant, Antoine demi-pas derrièr
 
 Eisenberg's est à deux blocs et demi. Devanture rouge, étroite, écrasée entre une boutique de yoga et un magasin de bagages. *Eisenberg's S&Co.* en lettres jaunes fatiguées. Daniel pousse la porte. Ça sent le pastrami chaud et le café filtre brûlé. Le comptoir tient sur toute la longueur du local, formica vert clair, vingt tabourets vissés au sol. Six clients à midi trente, dont un qui dort la tête posée sur les avant-bras.
 
-Daniel passe la main sur l'épaule d'un homme derrière le comptoir, sans s'arrêter — *Manuel*, en passant. Manuel hoche sans lever les yeux, continue à découper sa pastrami à la main. Ils s'installent au bout du comptoir, près de la vitre. Daniel pose le téléphone face en l'air sur le formica. Antoine plie le manteau sur le tabouret à sa gauche.
+Daniel passe la main sur l'épaule d'un homme derrière le comptoir, sans s'arrêter — *Manuel*, en passant. Manuel hoche la tête sans lever les yeux, continue à découper son pastrami à la main. Ils s'installent au bout du comptoir, près de la vitre. Daniel pose le téléphone face en l'air sur le formica. Antoine plie son manteau sur le tabouret à sa gauche.
 
 Daniel commande pour les deux.
 
@@ -49,13 +49,13 @@ Daniel attend que Manuel ait posé le café. Il prend une gorgée. Il pose la ta
 
 — *Je peux.*
 
-Daniel regarde par-dessus son épaule. Personne ne les écoute. Manuel découpe sa pastrami à deux mètres, sans s'intéresser.
+Daniel regarde par-dessus son épaule. Personne ne les écoute. Manuel découpe son pastrami à deux mètres, indifférent.
 
 — *Il y a deux mois, j'ai un papier qui est prêt à partir à The Atlantic. Un type qui veut signaler quelque chose sur un modèle d'inférence visuelle qui circule dans des cercles précis — pas open source, pas industriel, quelque chose qui passe sous le radar. Il a du matériel, des résidus de signature qu'il a isolés, une cohérence sur trois corpus. Il est sérieux. Il a préparé le papier pendant huit mois.*
 
 Daniel boit un autre coup. La tasse retombe doucement cette fois.
 
-— *La veille de la mise en page, il m'appelle. Il me dit qu'il retire. Pas de raison. Juste retire. Je l'ai eu en vidéo, je me suis méfié de la vidéo, je l'ai vu chez moi à Brooklyn Heights deux jours après — il était venu jusqu'à New York pour me le dire en chair. C'est lui en chair qui m'a dit qu'il retirait. Il avait quelque chose dans le regard que je ne sais pas qualifier autrement que par : il avait eu peur, et il avait fini par accepter d'avoir peur.*
+— *La veille de la mise en page, il m'appelle. Il me dit qu'il retire. Pas de raison. Juste retire. Je l'ai eu en vidéo, je me suis méfié de la vidéo, je l'ai vu chez moi à Brooklyn Heights deux jours après — il était venu jusqu'à New York pour me le dire en chair. C'est lui en chair qui m'a dit qu'il retirait. Il avait quelque chose dans le regard. Je ne sais pas le dire autrement. Il avait eu peur, et il avait fini par accepter d'avoir peur.*
 
 — *Le type s'appelait comment ?*
 
@@ -87,7 +87,7 @@ Manuel s'approche en deux pas avec deux assiettes en équilibre sur l'avant-bras
 
 — *Soupe. Sandwich. Pickle.*
 
-Il pose. Il repart. Daniel coupe son sandwich en deux avec un couteau qui rate de moitié — le pastrami glisse sur le seigle, retombe. Antoine ne coupe pas le sien. Il prend une bouchée.
+Il pose. Il repart. Daniel coupe son sandwich en deux d'un couteau qui ne tranche qu'à moitié — le pastrami glisse sur le seigle, retombe. Antoine ne coupe pas le sien. Il prend une bouchée.
 
 Daniel commence à manger. Il parle entre les bouchées, ce qu'Antoine déteste mais ce qu'Antoine accepte chez Daniel depuis vingt ans.
 
@@ -95,7 +95,7 @@ Daniel commence à manger. Il parle entre les bouchées, ce qu'Antoine déteste 
 
 — *Deux suffisent.*
 
-Daniel sort un stylo de la poche poitrine, prend un set de table en papier, écrit deux noms et deux mails. Il replie le set en quatre. Il le tend à Antoine. Antoine le glisse dans la poche intérieure du manteau, à côté de O'Hara.
+Daniel sort un stylo de la poche de poitrine, prend un set de table en papier, écrit deux noms et deux mails. Il replie le set en quatre. Il le tend à Antoine. Antoine le glisse dans la poche intérieure du manteau, à côté de O'Hara.
 
 ---
 
@@ -105,7 +105,7 @@ Daniel finit son sandwich avant Antoine, il finit toujours avant. Il prend la so
 
 — *C'est l'âge.*
 
-Daniel rit. Bref, vrai.
+Daniel rit.
 
 — *Eli est passé bizarre cette semaine. Plus que d'habitude. Tu sais, c'est un gamin qui ferme bien sa porte depuis qu'il a treize ans. Là il monte dans sa chambre dès qu'il rentre, il ne descend pas pour dîner. Nora a essayé jeudi, elle est montée, elle a frappé, il a dit qu'il allait bien. Tu sais ce que ça veut dire chez un gamin de seize ans.*
 
@@ -135,7 +135,7 @@ Daniel cherche. Il ne trouve pas tout de suite.
 
 — *...joue du piano.*
 
-Daniel ferme les yeux une seconde. Il rouvre. Il regarde Antoine. Il ne dit pas pardon parce qu'il sait que pardon ne sert à rien.
+Daniel ferme les yeux une seconde. Il les rouvre. Il regarde Antoine. Il ne dit pas pardon. Pardon ne servirait à rien.
 
 ---
 
@@ -145,7 +145,7 @@ Antoine reprend la bouchée et la finit. Il finit sa soupe. Il boit le café fro
 
 — *Je sais.*
 
-Daniel paie en se levant. Manuel hoche au-dessus de son pastrami. Daniel passe la main sur l'épaule de Manuel au passage. Ils sortent dans la chaleur de Cinquième Avenue.
+Daniel paie en se levant. Manuel hoche la tête au-dessus de son pastrami. Daniel passe la main sur l'épaule de Manuel au passage. Ils sortent dans la chaleur de Cinquième Avenue.
 
 — *Tu pars à quelle heure.*
 
@@ -165,7 +165,7 @@ Daniel pose une main sur l'épaule d'Antoine. Brève. Il la retire. Ils se sépa
 
 ---
 
-À treize heures vingt, sur un banc de Union Square, Antoine sort son téléphone. Il ouvre la messagerie qu'il partage avec Nora — pas la commerciale, l'autre, celle qui demande deux validations distinctes avant chaque envoi : un code court tapé à la main et une empreinte. Il tape.
+À treize heures vingt, sur un banc de Union Square, Antoine sort son téléphone. Il ouvre la messagerie qu'il partage avec Nora — pas la commerciale, l'autre, celle qui demande deux validations avant chaque envoi. Il tape.
 
 *Je rentre ce soir. Pas par sécurité. Par Inès. Je t'explique demain. — A.*
 
@@ -176,6 +176,8 @@ Il valide la première fois. Il valide la deuxième fois. Le message part. À Br
 Antoine lit. Il glisse le téléphone dans la poche. Il marche vers Brooklyn Heights pour faire sa valise. Il a quatre heures avant le vol.
 
 ---
+
+*Brouillon v3 — 2026-05-15. Passe langue (éditrice-voix recalibrée — section "Maîtrise de la langue" ajoutée à l'agent). Corrections de fautes objectives : (1) "sa pastrami" → "son pastrami" ×2 (genre) ; (2) "Manuel hoche" → "hoche la tête" ×2 (verbe transitif amputé) ; (3) "arrive en trois" → "en trois minutes" ; (4) "le manteau" → "son manteau" (article défini sans antécédent) ; (5) "un couteau qui rate de moitié" → "un couteau qui ne tranche qu'à moitié" (glissement de référent) ; (6) "poche poitrine" → "poche de poitrine" (cohérence avec l'ouverture) ; (7) construction didactique "que je ne sais pas qualifier autrement que par :" allégée en trois phrases parlées ; (8) phrase-spec sur la double validation dégraissée — détail "code + empreinte" coupé, l'usage ("Il valide la première fois. Il valide la deuxième fois.") la montre ; (9) "Il rouvre" → "Il les rouvre". Deux points de voix tranchés au rituel narratrice ↔ éditeur : tic "Bref, sec./Bref, vrai." — "Bref, sec." gardé sur le sifflement, "Bref, vrai." coupé ("Daniel rit." nu) ; glose finale "parce qu'il sait que pardon ne sert à rien" resserrée en "Il ne dit pas pardon. Pardon ne servirait à rien." — Yves garde la formule pour ce qu'elle dit de l'époque (le pardon comme monnaie sans valeur en 2030), non du personnage.*
 
 *Brouillon v2 — 2026-05-14. Huit coupes/modifications après passage éditeurs voix/structure : (1) glose narratrice "— c'est ce que Daniel fait" coupée (manifeste qui signale l'oxymore au lieu de le faire) ; (2) ajout d'une note sensorielle sur la bulle dans le bruit ("Autour, ça commande, ça paie, ça ne les regarde pas. Ils sont dans leur coin de formica, seuls dans la salle.") — pose la concentration des deux dans l'ambiance du comptoir sans interruption ; (3) "Du Bach, je crois" coupé — Daniel dit juste "du piano", il n'est pas musicologue ; (4) glose "je l'entends à sa voix" coupée (mini-affichage du pouvoir d'observation) ; (5) **séquence du déclic dé-symétrisée** — passe de six répliques en escalier à quatre avec hésitation ("Daniel cherche. Il ne trouve pas tout de suite. — Ta fille... — ...joue du piano.") — Daniel bute, Antoine finit la phrase. Goldberg supprimé de la 15 (motif déjà chargé en 4/6/8/12/14, économie) ; (6) bloc post-déclic (Inès M., asymétrie Eli, "Tu vois / Je vois aussi", glose narratrice sur le repo) entièrement coupé — redescend dans la 16 si nécessaire, garde l'air ouvert ; (7) danse "désolé / tu ne pouvais pas savoir / je sais c'est pour ça" coupée en bloc — la narratrice avait déjà dit qu'il ne dit pas pardon ; (8) "Je le laisse aller" coupé — signature de chapitre, "Il a quatre heures avant le vol" ferme déjà. Position narratrice tenue : la pudeur sur l'œuvre nommée renforce l'asymétrie Henry/Daniel — chez Henry Antoine dit Goldberg parce que c'est leur code, chez Daniel il ne nomme pas l'œuvre.*
 
