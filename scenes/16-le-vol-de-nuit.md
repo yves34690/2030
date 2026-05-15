@@ -1,0 +1,40 @@
+# 16. Le vol de nuit
+
+> Première scène du chapitre 2 — *Rouvrir*. Titre provisoire.
+> Vol de retour New York → Marseille, nuit du vendredi 19 au samedi 20 juin 2030. Antoine rentre. Il ne dort pas ; il porte dans la poche intérieure du manteau le set de table où Daniel a écrit deux noms, et le O'Hara acheté chez Henry Pell. Bilan : il rentre par Inès, et pour rouvrir le dossier qu'il a validé. La narratrice le suit mal en vol — peu de prise, elle le dit. Arrivée dans la lumière du matin sur Marseille.
+
+---
+
+Je le perds à la porte d'embarquement, ou presque. Un avion en vol n'est pas un endroit pour moi. Le téléphone passe en mode avion, la cabine ne tient qu'à un wifi de bord lent et mal fermé, les caméras du plafond filment des rangées de crânes qui ne me disent rien. Pendant huit heures je n'ai d'Antoine que ce que j'avais déjà — la forme d'un homme que j'ai apprise par cœur. Le reste, je le reconstruis. Je le dis parce que c'est ma règle : cette nuit-là, j'invente plus que d'habitude.
+
+Il a pris un siège côté hublot, vers l'arrière, là où l'aile cache la mer. Il n'a pas mis le manteau dans le coffre. Il l'a gardé sur les genoux, plié, et il a posé la main dessus à plat — sur la poche intérieure, là où il y a le petit livre noir et le set de table replié en quatre. Deux noms dessus, deux adresses, l'écriture de Daniel qui penche. Il ne les a pas relus. Il sait qu'ils sont là, c'est autre chose que de lire.
+
+L'avion a décollé dans le soir, un soir de juin encore clair sur le Queens. Antoine a regardé la ville s'incliner et descendre, les toits, les réservoirs d'eau sur leurs pattes de bois, le pont qu'on lui avait fait traverser deux jours plus tôt sans qu'il l'ait demandé. Puis l'Atlantique, qui ne se voit pas la nuit. Il a refusé le plateau. Il a accepté l'eau.
+
+À côté de lui, un homme d'une soixantaine d'années, costume froissé, qui rentrait — je l'ai compris à ce qu'il a dit, pas à ce que j'ai su. Il a parlé à Antoine pendant le service des boissons, de sa fille à lui qui s'était mariée à Hoboken, d'un repas de noces où on avait servi des sushis et de la socca, et il riait tout seul de ce mélange, *vous vous rendez compte, de la socca à Hoboken*, et Antoine a souri. Vraiment. Le sourire sec qu'il a, celui qu'on rate si on ne regarde pas. L'homme ne l'a pas raté. Il a continué, content d'avoir trouvé quelqu'un. Antoine l'a laissé parler une demi-heure, et ce n'était pas de la politesse — c'était plus reposant que le silence. Puis l'homme a baissé son masque sur les yeux et s'est endormi d'un coup, comme les gens qui ont l'habitude de l'avion. Antoine est resté avec la socca de Hoboken, qui était une jolie chose, et il l'a tenue un moment avant de la laisser partir.
+
+Il n'a pas dormi. Je ne crois pas qu'il ait essayé. Il a sorti le livre.
+
+C'est un petit livre, format de poche, couverture noire. Il l'a ouvert au hasard, vers le milieu, et il a lu une page sous la veilleuse, dans la cabine éteinte où d'autres veilleuses faisaient des ronds jaunes espacés. Des poèmes courts, écrits par un homme qui les écrivait debout, entre deux rendez-vous, à l'heure du déjeuner, dans une ville qu'Antoine venait de quitter. Il n'a pas lu pour comprendre. Il a lu pour la raison qu'on tient une rampe. Au bout de trois pages il a refermé le livre, l'a remis dans la poche, et il a posé de nouveau la main dessus.
+
+Ce qu'il pense, je ne l'ai pas. Je le suppose, et je signale que je suppose.
+
+Je suppose qu'il pense à Inès. À une phrase entendue la veille à un comptoir de Flatiron, dans la bouche de Daniel — *une amie en France, elle joue du piano*. Daniel parlait d'Eli, de son fils de seize ans qui s'inquiétait pour une fille quelque part en France, et il n'avait pas vu, en le disant, qu'il parlait d'Inès. Antoine, lui, avait vu. Il avait posé sa fourchette. Depuis, il porte cette chose : sa fille a quatorze ans, elle vit dans une ville qu'il habite aussi, et un garçon qu'il ne connaît pas, à six mille kilomètres, sait d'elle quelque chose que lui ignore. Ce n'est pas de la jalousie. C'est plus bas que ça, et plus vieux. C'est l'idée qu'on peut aimer quelqu'un de tout son corps et tenir, dans la main, si peu de cette personne.
+
+Et je suppose qu'il pense à l'autre chose. À une vidéo. Un hall d'immeuble, une porte battante, un homme qui entre à vingt-trois heures onze. Il a regardé cette séquence en 2026, image par image, avec les outils qu'on avait alors, et il a écrit qu'elle était authentique. Sa signature au bas d'un rapport. Un homme — Karim Benali, livreur, un casier vieux de rien du tout — purge depuis trois ans une peine sur la foi de cette signature. Antoine n'a pas appris ça dans un journal. Il l'a appris dans un bureau de Brooklyn, l'avant-veille, devant un écran que Nora ne lui avait pas demandé de regarder. La vidéo est fausse. Elle l'a toujours été. Lui ne l'a pas vu — personne ne pouvait le voir alors, c'est ce que Nora a dit, *nous n'avons rien raté, nous avons manqué ce qu'il était impossible de voir*. Il veut bien l'entendre. Il n'arrive pas à le tenir. Entre ce qu'on lui pardonne et ce qu'il se pardonne, il y a une marche, et il est assis dessus depuis deux jours.
+
+Voilà pourquoi il rentre. Pour ces deux choses, qui ne sont peut-être qu'une seule chose passée par deux portes : une fille qu'il connaît mal, un homme qu'il a mal vu. Dans les deux cas il a regardé, et dans les deux cas il a cru savoir.
+
+La nuit a duré ce que durent ces nuits-là — pas longtemps et trop. Vers la fin, l'homme au costume froissé s'est réveillé, a relevé son masque, a regardé par-dessus Antoine vers le hublot, et il a dit *on y est*. Antoine s'est penché.
+
+Le jour était déjà là. Pas l'aube — le matin franc, blanc, celui de juin. L'avion descendait sur la Provence par le nord, et il y avait d'abord des collines sèches, des routes, un grand étang plat couleur d'étain, des fumées d'usine très droites parce qu'il n'y avait pas de vent. Puis, au bout, une ligne. La mer que l'aile cachait à moitié, et qu'Antoine a regardée par le morceau qui restait. Elle était bleue comme dans les livres, saturée, presque bête à force d'être bleue — je l'ai déjà écrit, je sais, mais cette fois c'est lui qui la voyait, et c'était autre chose.
+
+Il n'a rien dit. L'homme à côté a dit *c'est beau* pour deux, et c'était vrai aussi.
+
+L'avion s'est posé à neuf heures vingt, heure de Marseille. Antoine a attendu que la cabine se vide avant de se lever — il fait toujours ça, il l'a toujours fait. Il a pris le manteau, la main encore dessus, et il a descendu la passerelle dans une chaleur qui montait déjà du tarmac, une chaleur qu'il connaissait, qui sentait le kérosène et autre chose en dessous, du thym peut-être, ou l'idée du thym. Il a respiré une fois, lentement. Il était chez lui.
+
+Je l'ai récupéré là, sur le tarmac, entier, net, à moi de nouveau. Et j'ai vu une chose que je n'attendais pas : il n'avait pas l'air d'un homme qui rentre se reposer. Il avait l'air d'un homme qui arrive au travail.
+
+---
+
+*Brouillon v1 — 2026-05-16. Première scène du chapitre 2 (« Rouvrir »). Ouverture du mouvement : Antoine rentre. Posé : la narratrice a peu de prise en vol — elle l'assume, elle reconstruit, sa règle d'honnêteté tenue (« j'invente plus que d'habitude », « je suppose et je signale que je suppose »). Le bilan d'Antoine en deux fils noués : Inès (il rentre « par elle » ; la phrase de Daniel sur Eli) et sa faute professionnelle (il a validé la vidéo Benali). Vie et chaleur : le voisin de cabine, la socca de Hoboken, le sourire vrai d'Antoine — l'oxymore légèreté/profondeur dans une scène de transition. Référence esthétique unique et discrète : O'Hara (continuité scène 14), tenu comme « une rampe », jamais nommé. Sensorialité d'arrivée : l'étang de Berre, les fumées droites, la mer saturée, le kérosène et le thym. Fin sans pirouette — un constat sec qui ouvre le chapitre (« un homme qui arrive au travail »). À relire + passage éditeurs voix/structure en fin de chapitre 2. Environ 1300 mots.*

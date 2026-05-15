@@ -32,7 +32,7 @@
 
 | # | Titre provisoire | Statut |
 |---|---|---|
-| 16 | Le vol de nuit | ⬜ |
+| 16 | Le vol de nuit | ✍️ |
 | 17 | Endoume, au matin | ⬜ |
 | 18 | Chez Ange — le retour | ⬜ |
 | 19 | Le mercredi d'Inès | ⬜ |
@@ -103,4 +103,4 @@
 
 ---
 
-*Créé : 2026-05-16. Chapitre 1 terminé (15 scènes). Prochaine étape : resynchronisation continuité, puis chapitre 2.*
+*Créé : 2026-05-16. Chapitre 1 terminé (15 scènes). Chapitre 2 en cours d'écriture (scène 16 en brouillon). Révision groupée des éditeurs en fin de chapitre.*
