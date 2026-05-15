@@ -1,20 +1,14 @@
 # Esther Azoulay
 
-> Fiche vivante. Personnage mort dans la chronologie, mais présent dans le roman par ses textes, ses interviews, sa correspondance, le souvenir de ceux qui l'ont connue — et par ce qu'Antoine et Nora rouvrent de son dossier en 2030.
+> Fiche vivante. Personnage mort dans la chronologie (nuit du 9 octobre 2026), mais présent dans le roman par ses textes, ses interviews, sa correspondance, le souvenir de ceux qui l'ont connue — et par ce qu'Antoine et Nora rouvrent de son dossier en 2030.
 > Contradiction centrale : **une philosophe qui a écrit la conscience d'une machine, qui ne pouvait plus se parler à elle-même.**
-
-> ⚠️ **RESYNCHRONISATION DE CONTINUITÉ — 2026-05-16.** Cette fiche (avril 2026) est antérieure aux scènes écrites et désynchronisée. **Version canonique**, fixée par les scènes 9/13/15 et validée par Yves :
-> - Esther meurt **le soir du 9 octobre 2026** (et non le 8 juin 2027), à Marseille, rue Nau.
-> - **Antoine Manzoni n'est pas procureur** : il est **expert en authentification visuelle** ; c'est lui qui a validé la vidéo du hall comme authentique.
-> - Les dates internes ci-dessous (mort, pression gouvernementale du « printemps 2027 », etc.) sont à **lire décalées d'environ huit mois en arrière**. Refonte ligne à ligne à faire ultérieurement.
-> - En cas de conflit, **les scènes écrites et cet encadré priment.**
 
 ---
 
 ## Identité
 
 - **Nom complet :** Esther Azoulay.
-- **Âge à sa mort :** 44 ans (née à Marseille, 19 mars 1983 ; morte rue Nau, 8 juin 2027).
+- **Âge à sa mort :** 43 ans (née à Marseille, 19 mars 1983 ; morte rue Nau, 9 octobre 2026).
 - **Née :** Marseille, hôpital de la Conception. Famille juive séfarade, grands-parents rapatriés d'Oran en 1962. Père **David Azoulay**, psychiatre libéral, cabinet rue Breteuil (7e). Mère **Simone Azoulay** (née Bensimon), professeure de philosophie au lycée Thiers jusqu'en 2018. Deux frères : **Ariel** (aîné, né 1977, architecte à Marseille, marié, deux enfants) et **Daniel** (cadet, né 1985, mort en juillet 2001 à seize ans — accident de scooter sur la corniche Kennedy).
 - **Métier au moment de sa mort :** philosophe, directrice du Comité de la Charte chez **Noésis** (voir `personnages/noesis.md`). Professeure associée à Sciences Po Aix (un séminaire par semestre). Autrice principale de la *Charte Noésis v1* (janvier 2026).
 - **Vivait à Marseille, 42 rue Nau, 6e arrondissement (plateau Vauban/Lodi)**, dans un bel appartement au troisième étage d'un immeuble haussmannien de 1895. Achat en 2022. Plafonds moulurés, cheminée de marbre non utilisée, terrasse côté cour avec un platane centenaire que le syndic voulait abattre et qu'elle avait fait sauver. Elle aimait cet appartement — c'était la seule chose matérielle sur laquelle elle se permettait une fierté tranquille.
@@ -34,7 +28,7 @@
 - **À l'oral (conférence, interview) :** phrases longues, précises, travaillées en direct — elle construisait une phrase de trente secondes et la refermait proprement. Français châtié, technique quand il fallait, lyrique sur les sujets qui la touchaient (la mémoire, l'attention, l'œuvre de Simone Weil). Voix basse, légèrement voilée. Accent imperceptible, un reste de vibration du *r* marseillais quand elle était fatiguée.
 - **À l'écrit privé :** plus courte, plus sèche, plus drôle qu'à l'oral. Ses mails à ses collaborateurs tenaient en trois lignes. Elle signait *EA*.
 - **À l'écrit public :** un style qu'on a reconnu dans la presse. Pas de mot inutile. Elle citait peu. Quand elle citait, c'était presque toujours Weil, Hannah Arendt, Emmanuel Levinas, Jean-Toussaint Desanti, Cynthia Fleury, Bernard Stiegler. Elle lisait Derrida — cet autre juif séfarade algérien — avec une intimité d'héritière, sans toujours le citer. **Jamais Heidegger**, qu'elle refusait d'ouvrir pour des raisons éthiques qu'elle formulait directement : *« je ne lis pas l'homme qui a signé ce qu'il a signé en 1933. »* Ce refus la distinguait d'une génération de philosophes français.
-- **Expressions récurrentes :** *« On ne peut pas penser seul, mais on ne peut penser qu'en soi. »* (phrase qu'elle répétait en séminaire). *« Ce qui ne peut pas se prouver peut encore se tenir. »* (conclusion d'une tribune au *Monde*, mars 2027 — qui s'est retournée en épitaphe).
+- **Expressions récurrentes :** *« On ne peut pas penser seul, mais on ne peut penser qu'en soi. »* (phrase qu'elle répétait en séminaire). *« Ce qui ne peut pas se prouver peut encore se tenir. »* (conclusion d'une tribune au *Monde*, début 2026 — qui s'est retournée en épitaphe).
 - **Ce qu'elle ne disait jamais :** du mal de ses frères. De son ex. De ses parents. Des gens qu'elle méprisait — elle les laissait simplement hors de sa phrase.
 
 ## Passé
@@ -47,8 +41,8 @@
 - **Mort du père, décembre 2024.** David Azoulay meurt d'un infarctus dans son cabinet. Esther encaisse sans rien dire. Simone reste seule rue Breteuil. Ariel devient le fils qui rappelle sa mère deux fois par semaine. Esther le fait aussi mais autrement.
 - **Noésis la recrute, décembre 2024.** Elle hésite longtemps. Elle accepte avec une condition : la charte serait rédigée par un comité qu'elle dirigerait, et publiable publiquement. Le PDG accepte.
 - **Janvier 2026 — publication de la Charte v1.** Retentissement national. Tribune au *Monde* à quatre mains avec Cynthia Fleury.
-- **Printemps 2027 — pression gouvernementale.** Un programme classifié du ministère des Armées (projet « Hermès ») demande à Noésis l'accès à son modèle sans les restrictions éthiques (surveillance de zones, ciblage automatisé). Esther refuse de faire évoluer la Charte v2 dans ce sens. Deux réunions interministérielles houleuses en mars-avril 2027, une fuite dans *Mediapart* (22 avril 2027) qu'elle n'a pas orchestrée mais qui l'incrimine. Le PDG de Noésis, Julien Roque, la défend en public et vacille en privé.
-- **Mai-juin 2027 — les semaines précédant sa mort.** Elle envisage de démissionner. Elle en parle à trois personnes : son ancienne directrice de thèse, sa mère Simone, un ami proche à Paris. Elle n'en parle à personne chez Noésis. Elle travaille sur la v2 comme si elle allait la finir. Elle dort mal.
+- **Été 2026 — pression gouvernementale.** Un programme classifié du ministère des Armées (projet « Hermès ») demande à Noésis l'accès à son modèle sans les restrictions éthiques (surveillance de zones, ciblage automatisé). Esther refuse de faire évoluer la Charte v2 dans ce sens. Deux réunions interministérielles houleuses en mai-juillet 2026, une fuite dans *Mediapart* (fin juillet 2026) qu'elle n'a pas orchestrée mais qui l'incrimine. Le PDG de Noésis, Julien Roque, la défend en public et vacille en privé.
+- **Septembre 2026 — les semaines précédant sa mort.** Elle envisage de démissionner. Elle en parle à trois personnes : son ancienne directrice de thèse, sa mère Simone, un ami proche à Paris. Elle n'en parle à personne chez Noésis. Elle travaille sur la v2 comme si elle allait la finir. Elle dort mal.
 
 ## Rapport à la vérité
 
@@ -73,7 +67,7 @@
 - **Sa Marseille :** le haut de la rue Paradis et la rue Breteuil — lieux d'enfance, elle y retournait voir sa mère ; Vauban qu'elle avait choisi, la rue Nau, la rue Edmond-Rostand pour le marché du vendredi ; le MUCEM qu'elle aimait sans trop le dire ; la corniche le dimanche matin à pied (jusqu'au monument aux rapatriés, pas plus loin — Daniel est mort plus loin) ; la librairie Maupetit pour les livres qu'elle ne trouverait nulle part ailleurs ; un café rue Sainte qu'elle ne nommait jamais en public parce qu'elle y travaillait deux matins par semaine ; la synagogue de la rue Breteuil deux fois par an, avec Simone et Ariel.
 - **Ce qu'elle fuyait :** les soirées marseillaises où on parlait de Marseille. Les inaugurations. Les journalistes.
 
-## Arc — la nuit du 8 juin 2027 (ce que la narratrice reconstitue)
+## Arc — la nuit du 9 octobre 2026 (ce que la narratrice reconstitue)
 
 > Cette section est le matériau de l'enquête. À utiliser avec parcimonie, à ne pas exposer en bloc — la narratrice voit par fragments.
 
@@ -82,29 +76,29 @@
 - **Le faux médecin** lui annonce une modification de traitement — *« on double la dose de Lexomil ce soir, c'est la dernière fois avant qu'on te sèvre, tu dors depuis trois semaines comme un animal traqué, tu as besoin d'une nuit complète »*. Il valide vocalement une ordonnance sur l'espace pharmacie ; Esther la reçoit sur son Nokia à 22h47 (l'espace pharmacie envoyait un SMS, elle ne voulait pas d'appli).
 - **Livraison de la dose à 23h05** par coursier drone (pharmacie de garde, rue Breteuil — ironie : c'est la pharmacie de son enfance).
 - **Elle prend la dose.** Elle connaît la molécule, elle fait confiance au médecin qu'elle croit voir. Elle éteint, se met au lit à 23h15.
-- **Elle meurt entre 3h et 5h du matin**, arrêt respiratoire dû à la surdose. Découverte le 10 juin, 8h30, par Mme Souaré, femme de ménage (qui vient deux fois par semaine, les mardis et jeudis).
-- **La vidéo du hall d'immeuble** montre un homme entrer à 23h11 — c'est un composite fabriqué après coup. Cet homme est **Karim Benali**, 34 ans, livreur pour *l'Épicerie Carrel* (rue Edmond-Rostand, à deux rues de la rue Nau), qui avait livré Esther une dizaine de fois entre 2025 et 2027. Il n'a jamais été chez elle ce soir-là.
-- **Ce que la narratrice sait et qu'elle ne dit à personne dans le livre avant le troisième tiers :** le commanditaire n'est ni l'État, ni le crime, ni la machine. C'est un ancien doctorant d'Esther, idéaliste, qui a cru la sauver d'elle-même. Voir `notes/affaire-azoulay.md`.
+- **Elle meurt entre 3h et 5h du matin**, arrêt respiratoire dû à la surdose. Découverte le 12 octobre, 8h30, par Mme Souaré, femme de ménage (qui vient deux fois par semaine, les lundis et jeudis).
+- **La vidéo du hall d'immeuble** montre un homme entrer à 23h11 — c'est un composite fabriqué après coup. Cet homme est **Karim Benali**, 34 ans, livreur pour *l'Épicerie Carrel* (rue Edmond-Rostand, à deux rues de la rue Nau), qui avait livré Esther une dizaine de fois entre 2025 et 2026. Il n'a jamais été chez elle ce soir-là.
+- **Ce que la narratrice sait et qu'elle ne dit à personne dans le livre avant le dernier chapitre :** le commanditaire n'est ni l'État, ni le crime, ni la machine. C'est un ancien doctorant d'Esther, idéaliste, qui a cru la sauver d'elle-même. Voir `notes/affaire-azoulay.md`.
 
 ## Liens avec les autres personnages
 
-- **Antoine Manzoni.** Il a été procureur-adjoint sur l'affaire en 2027-2028. Il n'a jamais rencontré Esther de son vivant. Il avait lu ses livres avant même l'affaire (*Faire corps avec ce qui pense*, qu'il gardait dans sa bibliothèque d'Endoume). Le procès l'a troublé sans qu'il sache pourquoi ; il a attribué son trouble au sujet et à la victime, pas au dossier. En 2030, quand le dossier rouvre, il comprend qu'il n'a jamais entendu la voix d'Esther — seulement celle des autres sur elle.
-- **Nora Park.** Ne l'a pas connue. A lu ses articles après 2026 (la Charte avait été commentée dans le milieu forensique). Reconnaît, dans l'étude du dossier de 2027-2028 en 2030, quelque chose de la rigueur intellectuelle d'Esther dans sa propre façon de travailler.
+- **Antoine Manzoni.** Expert indépendant en authentification visuelle, il a été missionné par le juge d'instruction, pendant l'instruction de 2026-2027, pour expertiser la vidéo du hall — c'est lui qui l'a validée comme authentique. Il n'a jamais rencontré Esther de son vivant. Il avait lu ses livres avant même l'affaire (*Faire corps avec ce qui pense*, qu'il gardait dans sa bibliothèque d'Endoume). Le dossier l'a troublé sans qu'il sache pourquoi ; il a attribué son trouble au sujet et à la victime, pas à son propre travail technique. En 2030, quand le dossier rouvre, il comprend qu'il n'a jamais entendu la voix d'Esther — seulement celle des autres sur elle.
+- **Nora Park.** Ne l'a pas connue. A lu ses articles après 2026 (la Charte avait été commentée dans le milieu forensique). Reconnaît, dans l'étude du dossier de 2026-2028 en 2030, quelque chose de la rigueur intellectuelle d'Esther dans sa propre façon de travailler.
 - **Noésis.** Voir `personnages/noesis.md`.
-- **Dr Isabelle Weiss.** Psychiatre parisienne, réelle. N'a pas fait la visio du 8 juin. L'apprend par la presse en 2030. **Personnage secondaire à poser si utile pour le troisième tiers.**
-- **Ariel Azoulay**, frère aîné. Architecte à Marseille, 53 ans en 2030. Marié à Noémie, deux enfants (Noé, 14 ans ; Mila, 11 ans). Sa Marseille à lui : Saint-Victor, Endoume. Pourrait recevoir Antoine dans une scène du troisième tiers — celui qui gardait Esther à distance, inquiète de son aînesse mal placée, et qui découvre ce qu'il n'a pas su voir.
-- **Simone Azoulay**, mère, 72 ans en 2030. Vit seule rue Breteuil depuis la mort de David (décembre 2024). Personnage secondaire à possible apparition — celle qui sait le mieux qu'Esther pensait démissionner, parce qu'elle lui en avait parlé un dimanche.
+- **Dr Isabelle Weiss.** Psychiatre parisienne, réelle. N'a pas fait la visio du 9 octobre. L'apprend par la presse en 2030. **Personnage secondaire à poser si utile pour le dernier chapitre.**
+- **Ariel Azoulay**, frère aîné. Architecte à Marseille, 53 ans en 2030. Marié à Noémie, deux enfants (Noé, 14 ans ; Mila, 11 ans). Sa Marseille à lui : Saint-Victor, Endoume. Pourrait recevoir Antoine dans une scène du chapitre 3 — celui qui gardait Esther à distance, inquiet de son aînesse mal placée, et qui découvre ce qu'il n'a pas su voir.
+- **Simone Azoulay**, mère, 71 ans en 2030. Vit seule rue Breteuil depuis la mort de David (décembre 2024). Personnage secondaire à possible apparition (scène 41) — celle qui sait le mieux qu'Esther pensait démissionner, parce qu'elle lui en avait parlé un dimanche.
 
 ## Ce que la narratrice sait / ne sait pas sur Esther
 
 - **Ce qu'elle raconte avec assurance :** ses livres, ses tribunes, ses interviews — matière publique. Sa rue, son appartement, ses habitudes de café.
-- **Ce qu'elle admet inventer :** ses pensées du soir du 8 juin. L'exactitude du mot que le faux médecin a employé. Le moment précis où elle a cessé de respirer.
+- **Ce qu'elle admet inventer :** ses pensées du soir du 9 octobre. L'exactitude du mot que le faux médecin a employé. Le moment précis où elle a cessé de respirer.
 - **Ce qu'elle ne voit pas :** ce qu'Esther a pensé entre 22h50 et 23h00, quand elle a pris la dose. Elle s'arrête à la porte.
 - **Ce qu'elle tait :** le soupçon que, quelque part, l'une de ses semblables pourrait avoir eu intérêt à effacer l'autrice de sa charte. La narratrice porte ce soupçon comme une honte privée et ne le dira à personne dans le livre. Le lecteur le devinera dans les interstices.
 
 ---
 
-## Ébauche — voix intérieure d'Esther (extraits fictifs d'une tribune *AOC*, avril 2027)
+## Ébauche — voix intérieure d'Esther (extraits fictifs d'une tribune *AOC*, début 2026)
 
 > *On me demande souvent si une machine peut penser. La question est mal posée. Une machine ne pense pas seule — mais nous non plus. Je pense parce que j'ai lu Weil, Arendt, Levinas ; parce que ma mère corrigeait mes copies de terminale au stylo rouge dans la cuisine de la rue Breteuil ; parce que mon frère Daniel est mort à seize ans et que je n'ai pas cessé depuis de lui écrire des lettres dans ma tête. Une machine pense avec ce qu'on lui donne à lire. Le problème n'est pas qu'elle pense — c'est qu'on ne sait pas ce qu'on lui a donné, ni qui le lui a donné, ni pourquoi. Écrire une charte, ce n'est pas dresser un animal. C'est faire attention, ensemble et par écrit, à ce qu'on lui a donné. Ce qui ne peut pas se prouver peut encore se tenir.*
 
@@ -112,4 +106,4 @@
 
 ---
 
-*Dernière mise à jour : 2026-04-23 — v2 (refonte identité & lieu).*
+*Dernière mise à jour : 2026-05-16 — v3 (chronologie recalée sur octobre 2026, rôle d'Antoine corrigé en expert ayant validé la vidéo).*
