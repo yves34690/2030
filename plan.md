@@ -33,10 +33,10 @@
 | # | Titre provisoire | Statut |
 |---|---|---|
 | 16 | Le vol de nuit | ✍️ |
-| 17 | Endoume, au matin | ⬜ |
-| 18 | Chez Ange — le retour | ⬜ |
-| 19 | Le mercredi d'Inès | ⬜ |
-| 20 | La librairie | ⬜ |
+| 17 | Marignane | ✍️ |
+| 18 | Chez Ange — le retour | ✍️ |
+| 19 | Le mercredi d'Inès | ✍️ |
+| 20 | La librairie | ✍️ |
 | 21 | Brooklyn, le script | ⬜ |
 | 22 | La vidéo, encore | ⬜ |
 | 23 | La Belle-de-Mai | ⬜ |
