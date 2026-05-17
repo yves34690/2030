@@ -152,6 +152,35 @@ Quand la piste 4 (Léo Rousseau) émerge, le lecteur peut avoir soupçonné Dani
 
 ---
 
+## 2quater. Garance Delaunay — l'enquête institutionnelle de Noésis
+
+**Garance Delaunay**, avocate (voir `personnages/garance.md`), conseille Noésis depuis 2023 — elle a participé à l'architecture juridique de la Charte avec Esther Azoulay. Début 2030, après la sortie publique de FORVEX 2.3 et les premiers frémissements autour du dossier, **Julien Roque la mandate personnellement** pour conduire, sans bruit, l'enquête propre de Noésis sur la mort d'Esther.
+
+### Pourquoi Noésis enquête
+
+- La Charte est la clef de voûte réputationnelle de l'entreprise ; son autrice est morte ; une v2 édulcorée a été publiée en son absence. Roque veut savoir — pour protéger Noésis, et parce que la vérité, quelle qu'elle soit, finira par sortir : autant l'avoir avant les autres.
+- Noésis a aussi une raison qu'elle ne formule pas : la **piste 3** (l'IA). Si l'un de ses propres modèles a trouvé un chemin vers la mort d'Esther, Noésis est la seule à pouvoir le détecter — et la dernière à vouloir le rendre public. Garance enquête donc sur une vérité qui pourrait accuser son client. Tension à tenir jusqu'au bout.
+
+### L'atout — et l'angle mort
+
+- **L'avance technique.** Noésis construit les modèles les plus avancés du monde et dispose en laboratoire d'outils forensiques **au-delà de FORVEX 2.3** (la version publique qu'utilise Nora). Sur la ré-analyse de la vidéo Azoulay, Garance a une longueur d'avance sur tous les autres enquêteurs du roman.
+- **La portée institutionnelle.** Très grande entreprise, adossée à des fonds privés, à Bpifrance, à un fonds souverain du Golfe, titulaire de contrats régaliens — Noésis peut tirer **tous les fils des pistes 1 et 2** : États, fonds souverains et privés, et, par ses marges, le crime organisé. Garance atteint tout ce qui est grand.
+- **L'angle mort structurel.** Ce qu'un géant ne peut pas atteindre, c'est l'**individu seul**. Léo Rousseau (piste 4) est un ingénieur sans relief, à l'intérieur, sans trace institutionnelle — rien à quoi une enquête de cette échelle puisse s'accrocher. L'enquête de Noésis chassera les grands fauves et passera à côté du moineau. **Garance reproduit, avec des moyens immenses, l'erreur que fait le lecteur.**
+
+### Fonction narrative
+
+- Garance est un **contre-Antoine** : moyens quasi illimités, méthode institutionnelle, une vraie avance — et une cécité fatale là où il faut voir. Antoine, lui, n'a presque rien, sauf le don de lire un corps et l'obstination du fautif. Les deux trajectoires convergent.
+- Elle est la **femme de la scène 1** (chez Noailles) et de la **scène 16** (l'avion) ; la **vanne de Lucien en scène 18** la désigne sans la nommer, à l'insu de tous. Elle circule autour d'Antoine — l'expert qui a authentifié le faux — depuis le début. Antoine l'ignore jusqu'à la scène 16, où il la reconnaît sans pouvoir la nommer. Elle, elle sait exactement qui il est.
+- **Opacité narratrice.** Garance vient de Noésis, la pointe : la narratrice ne la lit pas (cf. `narratrice.md`, limites). Ce trou est assumé et exploité — il rend Garance durablement inquiétante, et il résout après coup l'âge mal estimé en scène 1.
+
+### Règles d'écriture pour Garance
+
+- **Pas une méchante.** Elle est l'institution qui enquête, pas l'ennemie. Compétente, opaque, courtoise, en avance — et structurellement aveugle. Le lecteur la soupçonne *malgré* elle, comme pour Daniel.
+- **Elle n'apparaît pas en pleine lumière trop tôt.** Présence de lisière (scènes 1, 16), vanne de Lucien à son insu (scène 18). Sa rencontre franche avec Antoine est à faire émerger — affrontement ou alliance forcée, pas encore tranché.
+- **Son lien à Esther reste sous la ligne de flottaison.** Jamais étalé. S'il affleure, c'est contre elle, une fois.
+
+---
+
 ## 3. Le dosage narratif (ordre d'exposition)
 
 > Règle de base : **le lecteur doit croire successivement aux pistes 1, 2, 3, puis revenir à 1 ou 2, avant que la piste 4 émerge lentement dans le dernier chapitre.**
@@ -191,3 +220,5 @@ Quand la piste 4 (Léo Rousseau) émerge, le lecteur peut avoir soupçonné Dani
 ---
 
 *Document vivant. Mise à jour : 2026-05-16 — v3 (chronologie recalée sur octobre 2026, rôle d'Antoine corrigé en expert, dosage aligné sur les 4 chapitres du plan).*
+
+*v3.1 — 2026-05-16 : ajout de la section 2quater (Garance Delaunay, avocate de Noésis, enquête institutionnelle ; la femme des scènes 1 et 16). Fiche créée : `personnages/garance.md`.*

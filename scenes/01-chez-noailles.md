@@ -19,7 +19,7 @@ Il lève les yeux vers le plafond, une demi-seconde. Il y a une caméra minuscul
 
 Il sort son téléphone. Il ne le regarde pas — ou plutôt il regarde à travers, comme on tient une tasse chaude pour se réchauffer alors qu'il fait quinze degrés.
 
-La femme à la table d'en face lit un livre en papier. C'est rare maintenant, pas inédit. Je ne sais pas ce qu'elle lit. Elle a un air concentré qui pourrait n'être rien. Ses chevilles sont croisées sous la chaise, elle a un grain de beauté sur la clavicule qui remonte à chaque inspiration. Elle a peut-être vingt ans. Antoine la regarde une demi-seconde. Une image d'Inès passe, repart. Il n'y tient pas. Inès a quatorze ans, elle ne lit plus comme ça. Elle faisait semblant quand il lisait à côté d'elle sur le canapé, petite. Elle ne fait plus semblant. Il reporte les yeux sur le zinc.
+La femme à la table d'en face lit un livre en papier. C'est rare maintenant, pas inédit. Je ne sais pas ce qu'elle lit. Elle a un air concentré qui pourrait n'être rien. Ses chevilles sont croisées sous la chaise, elle a un grain de beauté sur la clavicule qui remonte à chaque inspiration. Antoine la regarde une demi-seconde — cette manière d'être dans un livre, fermée à tout le reste — et une image d'Inès passe, repart. Il n'y tient pas. Inès a quatorze ans, elle ne lit plus comme ça. Elle faisait semblant quand il lisait à côté d'elle sur le canapé, petite. Elle ne fait plus semblant. Il reporte les yeux sur le zinc.
 
 Antoine commande d'un signe. Le garçon ne répond pas. C'est un accord ancien entre eux, ou pas d'accord du tout.
 
@@ -42,3 +42,5 @@ Le café reste sur la table, froid. Le garçon viendra le débarrasser, ou il la
 ---
 
 *Brouillon v1 — 2026-04-16. Environ 900 mots.*
+
+*Retouche 2026-05-16 : la lectrice de la table d'en face — devenue Garance Delaunay, voir `personnages/garance.md` — n'est plus estimée « peut-être vingt ans ». Suppression de l'âge ; l'image d'Inès se déclenche désormais sur la manière de lire, pas sur la jeunesse. Mise en cohérence avec son âge réel (46 ans) et son rôle.*

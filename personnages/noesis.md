@@ -12,9 +12,10 @@
 - **Fondateurs :** Julien Roque (PDG, X-Ponts, ex-DeepMind Londres 2017-2021), Agnès Lemoine (CTO, ENS Ulm maths, ex-INRIA Paris), David Nardi (CSO, polytechnicien, ex-Mistral AI 2021-2022).
 - **Siège social :** Paris, rue du Mail, 2e arrondissement. Deux étages dans un immeuble haussmannien discret.
 - **R&D principale :** Aix-en-Provence, site du Technopôle de l'Arbois. 140 personnes. Proximité Marseille déterminante — l'un des arguments pour recruter Esther Azoulay en 2024.
-- **Effectif en 2027 :** environ 320 personnes.
+- **Effectif en 2026 :** environ 320 personnes.
 - **Capital :** levées successives 2023, 2024, 2026. Actionnariat : fondateurs (35 %), Bpifrance (10 %), fonds européens (Atomico, Sofinnova — 30 %), fonds souverains du Golfe via un véhicule luxembourgeois (15 % — tension éthique latente), salariés (10 %).
-- **Modèles phares :** *Noésis-1* (septembre 2024), *Noésis-2* (avril 2026, multimodal texte+image+voix). En 2027, *Noésis-3* en entraînement.
+- **Modèles phares :** *Noésis-1* (septembre 2024), *Noésis-2* (avril 2026, multimodal texte+image+voix). Fin 2026, *Noésis-3* en entraînement.
+- **Outil forensique :** *FORVEX*, suite d'analyse des manipulations visuelles développée par Noésis. Version publique *2.3* sortie en février 2030 ; des versions de laboratoire, plus avancées, ne sont pas diffusées. Centrale dans le retournement de l'affaire Azoulay — voir `notes/affaire-azoulay.md`.
 
 ## Positionnement
 
@@ -27,7 +28,7 @@
 - **Charte Noésis v1** — publiée le 14 janvier 2026, 18 pages, 11 principes, annexes techniques. Autrice principale : Esther Azoulay. Contributeurs : Comité de la Charte (sept membres, dont deux juristes, une psychanalyste, un chercheur CNRS en linguistique, Azoulay elle-même). Amendée par le conseil d'administration à deux endroits avant publication — Azoulay avait accepté les amendements en grinçant.
 - **Deux lignes rouges :** (1) pas d'armement autonome létal ; (2) pas de surveillance de masse de population civile. **Reprise explicite des positions d'Anthropic contre le DOD en 2025-2026** — Noésis revendique la filiation, elle la cite en préambule.
 - **Retentissement :** tribune du *Monde* à quatre mains Azoulay / Cynthia Fleury. Invitations à France Culture, AOC, *Esprit*. En interne chez Noésis, tensions entre la R&D (fière) et le commercial (qui perd des appels d'offres de défense).
-- **Charte v2 en chantier, début 2027.** Devait être publiée fin 2027. L'article 4 (« coopération avec les autorités publiques ») est l'objet de la pression gouvernementale du printemps 2027 — le ministère des Armées veut une dérogation classifiée pour un programme (« Hermès », voir `notes/affaire-azoulay.md`). Azoulay refuse. La v2 n'est pas publiée. Après sa mort, un Comité de la Charte remanié en 2027-2028 publie une v2 édulcorée en septembre 2028 qui rouvre discrètement la porte — ce qui est l'un des fils que Nora tire en 2030.
+- **Charte v2 en chantier, courant 2026.** Devait être publiée fin 2026. L'article 4 (« coopération avec les autorités publiques ») est l'objet de la pression gouvernementale du printemps-été 2026 — le ministère des Armées veut une dérogation classifiée pour un programme (« Hermès », voir `notes/affaire-azoulay.md`). Azoulay refuse. La v2 n'est pas publiée : Azoulay meurt le 9 octobre 2026. Après sa mort, un Comité de la Charte remanié en 2027 publie une v2 édulcorée en septembre 2028 qui rouvre discrètement la porte — ce qui est l'un des fils que Nora tire en 2030.
 
 ## Contradictions de l'entreprise
 
@@ -37,10 +38,11 @@
 
 ## Gens de Noésis (à poser si le roman en a besoin)
 
-- **Julien Roque, PDG.** 47 ans en 2027. Maintient la Charte en public après la mort de Azoulay ; en privé, renégocie avec Matignon. **Apparition probable dans une scène d'entretien** (scène 14 ou 15 ?).
+- **Julien Roque, PDG.** 47 ans en 2026. Maintient la Charte en public après la mort d'Azoulay ; en privé, renégocie avec Matignon. **Apparition probable dans une scène d'entretien.**
 - **Agnès Lemoine, CTO.** 42 ans. Plus technique, plus sèche. Amie personnelle d'Azoulay. **Personnage secondaire à potentiel.**
-- **Léo Rousseau.** 29 ans en 2027. Ingénieur R&D, ancien doctorant d'Azoulay à l'ENS Lyon (abandon de thèse en 2019), recruté par elle chez Noésis en 2024. **Personnage-clé — à développer dans sa fiche propre au moment venu, voir `notes/affaire-azoulay.md`.**
+- **Léo Rousseau.** 29 ans en 2026. Ingénieur R&D, ancien doctorant d'Azoulay à l'ENS Lyon (abandon de thèse en 2019), recruté par elle chez Noésis en 2024. **Personnage-clé — à développer dans sa fiche propre au moment venu, voir `notes/affaire-azoulay.md`.**
 - **David Nardi, CSO.** 46 ans, plus retiré. Peut rester hors champ.
+- **Garance Delaunay, avocate (conseil externe).** Accompagne Noésis depuis 2023 ; mandatée par Roque en 2030 pour conduire l'enquête discrète de l'entreprise sur la mort d'Azoulay. Fiche dédiée : `personnages/garance.md`.
 
 ## Rapport au roman
 
@@ -49,4 +51,4 @@
 
 ---
 
-*Dernière mise à jour : 2026-04-23 — v1*
+*Dernière mise à jour : 2026-05-16 — v2 : chronologie recalée sur octobre 2026 (cohérence avec `notes/affaire-azoulay.md` v3) ; ajout de FORVEX et de Garance Delaunay.*

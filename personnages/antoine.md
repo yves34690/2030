@@ -109,7 +109,7 @@ Point de bascule possible : il prend une décision qu'il remet depuis dix-huit m
 - **Claire** (ex-femme, libraire à Saint-Giniez) — fiche dédiée : `personnages/claire.md`. Leur lien est le fil art/vérité du roman.
 - **Daniel Ng** (ami de Columbia depuis 2011) — fiche dédiée : `personnages/daniel.md`. Journaliste d'investigation senior devenu président d'Aletheia Ventures. Marié à Nora. Ami le plus tenace d'Antoine, hors cadre marseillais. C'est via lui qu'Antoine a rencontré Nora en 2021. **Vecteur de doute narratif du second mouvement** — à lire pour comprendre la charge ambiguë qu'il porte dans l'enquête.
 - **Nora Park** (collègue et amie, femme de Daniel) — fiche dédiée : `personnages/nora.md`.
-- **La femme qui lisait à la table d'en face chez Noailles** — pur hasard ou motif à suivre ? À voir si elle revient. Pour l'instant, indécidable.
+- **Garance Delaunay** — la femme qui lisait à la table d'en face chez Noailles (scène 1). Ce n'était pas un hasard : avocate mandatée par Noésis sur l'affaire Azoulay, elle circule autour d'Antoine — l'expert qui a authentifié le faux. Réapparaît scène 16 (Antoine la reconnaît en descendant de l'avion, sans pouvoir la nommer ; le pli reste). Elle sait qui il est ; lui l'ignore. Fiche dédiée : `personnages/garance.md`.
 
 ## Ce que la narratrice sait / ne sait pas sur Antoine
 
